@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/selectableItemBackground"
+    android:clickable="true"
+    android:descendantFocusability="blocksDescendants"
+    android:paddingEnd="@dimen/parent_item_padding"
+    android:paddingStart="@dimen/parent_item_padding">
+
+    <com.dollyphin.kidszone.home.BubbleTextView
+        android:id="@+id/app_content"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/setting_item_height"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:drawablePadding="@dimen/app_manager_icon_padding"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/txt_size_24" />
+
+    <Switch
+        android:id="@+id/app_limit_switch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="@dimen/setting_item_height"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:thumb="@drawable/select_switch_thumb"
+        android:track="@drawable/select_switch_trace" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/divider_color" />
+</RelativeLayout>

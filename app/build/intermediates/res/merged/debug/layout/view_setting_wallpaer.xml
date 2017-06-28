@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.view.SettingWallpaperView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_vertical">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/wallpaper_content"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/setting_wallpaper_height"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical" />
+</com.dollyphin.kidszone.view.SettingWallpaperView>

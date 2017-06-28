@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="about">关于</string>
+    <string name="add_use_time">增加使用时间</string>
+    <string name="again_input_password">请再次输入密码</string>
+    <string name="airplane_mode">已开启飞行模式</string>
+    <string name="answer_error">答案错误请重新输入</string>
+    <string name="app_filter">家长模式 - 应用管理</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n 保留所有权利"</string>
+    <string name="app_manage">应用管理</string>
+    <string name="app_market">应用市场</string>
+    <string name="app_name">Kids Zone</string>
+    <string name="birth">生日</string>
+    <string name="brightness">亮度</string>
+    <string name="cancel">取消</string>
+    <string name="change_pwd">修改密码</string>
+    <string name="charge_full_hint">充电已完成！</string>
+    <string name="charge_hint">小朋友设备在充电，请休息一会</string>
+    <string name="charge_protection">充电保护</string>
+    <string name="charging">正在充电 %1$s%%</string>
+    <string name="column_app">应用</string>
+    <string name="column_date">日期</string>
+    <string name="column_time">时间(h)</string>
+    <string name="enter_parent">家长模式</string>
+    <string name="enter_parent_mode">进入家长模式</string>
+    <string name="exit_charing">退出充电保护</string>
+    <string name="exit_dialog_hint">请确定是否要退出Kids Zone</string>
+    <string name="exit_dialog_title">退出</string>
+    <string name="exit_kidszone">退出\n Kids Zone</string>
+    <string name="eye_model">护眼模式</string>
+    <string name="flowmeter">流量限制</string>
+    <string name="forget_password">忘记密码？</string>
+    <string name="gallery">图库</string>
+    <string name="guide_choose_format">请选择允许孩子使用的应用（&lt;font color="#ff6b00">%1$d/%2$d&lt;/font>）</string>
+    <string name="input_answer">请输入正确的答案</string>
+    <string name="input_password">请输入4位密码</string>
+    <string name="mobile_data_close">关闭数据连接</string>
+    <string name="multimedia_volume">多媒体音量</string>
+    <string name="new_password">您的密码为&lt;font color="#00ff1212">%1$s&lt;/font></string>
+    <string name="no_sim">无SIM卡</string>
+    <string name="ok">确定</string>
+    <string name="other_lock_screen_hint">请小朋友不要这样躺着玩哦！</string>
+    <string name="overplus_time">休息剩余时间  %1$s</string>
+    <string name="parent_manage">家长控制</string>
+    <string name="password_error">两次输入不一致，请重新输入</string>
+    <string name="password_error_input">密码错误请重新输入</string>
+    <string name="password_success">密码设置成功</string>
+    <string name="permissions_help">帮助</string>
+    <string name="permissions_msg">当前应用缺少必要权限，请至 设置 - 应用 - 权限 中授予权限;取消则退出应用</string>
+    <string name="permissions_setting">设置</string>
+    <string name="person_model">个人中心</string>
+    <string name="radio_10m">10分钟</string>
+    <string name="radio_15m">15分钟</string>
+    <string name="radio_1h">1小时</string>
+    <string name="radio_20m">20分钟</string>
+    <string name="radio_2h">2小时</string>
+    <string name="radio_30m">30分钟</string>
+    <string name="radio_40m">40分钟</string>
+    <string name="radio_5m">5分钟</string>
+    <string name="select_break_time">请选择每次休息时长</string>
+    <string name="select_img">选择图片</string>
+    <string name="select_use_time">请选择每次使用时间</string>
+    <string name="setting_time">使用%1$d分钟/休息%2$d分钟</string>
+    <string name="sign_out">退出Kids Zone</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="system_setting">系统设置</string>
+    <string name="take_photo">拍照</string>
+    <string name="time_agreement">时间约定</string>
+    <string name="time_up">时间用完了</string>
+    <string name="top_five">最常用应用程序</string>
+    <string name="top_five_title">最近一周常用应用程序</string>
+    <string name="use_of_day">每日使用时间</string>
+    <string name="use_of_day_title">最近一周每日使用时间</string>
+    <string name="user_birth_hint">选择孩子的生日</string>
+    <string name="user_icon">选择照片</string>
+    <string name="user_name">姓名</string>
+    <string name="user_name_hint">输入孩子的名字</string>
+    <string name="user_name_not_null">用户名不能为空</string>
+    <string name="volume">音量</string>
+    <string name="wallpaper">壁纸</string>
+    <string name="welcome">欢迎使用Kids Zone \n请完成以下设置向导</string>
+    <string name="wifi">WIFI</string>
+</resources>

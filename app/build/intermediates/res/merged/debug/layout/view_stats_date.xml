@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.dollyphin.kidszone.view.DateColumnView
+        android:id="@+id/passwordView"
+        app:dateColumnPaddingTop="@dimen/column_paddingtop"
+        app:dateColumnPaddingLeft="@dimen/column_paddingleft"
+        app:dateColumnPaddingButtom="@dimen/column_paddingbuttom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/column_height"/>
+</LinearLayout>

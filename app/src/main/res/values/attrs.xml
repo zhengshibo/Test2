@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<resources>
+    <declare-styleable name="PasswordBox">
+        <attr name="cellBackground" format="reference"/>
+        <attr name="divider_color" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+        <attr name="divider_width" format="dimension"/>
+    </declare-styleable>
+    
+    <declare-styleable name="NumKeyboardView">
+        <attr name="color_style">
+            <enum name="white" value="1"/>
+            <enum name="black" value="0"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="PasswordView">
+        <attr name="keyBoard_Width" format="dimension" />
+        <attr name="keyBoard_height" format="dimension" />
+        <attr name="password_height" format="dimension" />
+        <attr name="password_background" format="reference" />
+        <attr name="space_item" format="dimension" />
+        <attr name="password_colorStyle">
+            <enum name="white" value="1" />
+            <enum name="black" value="0" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="ForgetPassword">
+        <attr name="forget_cellBackground" format="reference"/>
+        <attr name="forget_divider_color" format="color"/>
+        <attr name="forget_textSize" format="dimension"/>
+        <attr name="forget_textColor" format="color"/>
+        <attr name="forget_divider_width" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="AppColumnView">
+        <attr name="appColumnPaddingButtom" format="dimension"/>
+        <attr name="appColumnPaddingLeft" format="dimension"/>
+        <attr name="appColumnPaddingTop" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="DateColumnView">
+        <attr name="dateColumnPaddingButtom" format="dimension"/>
+        <attr name="dateColumnPaddingTop" format="dimension"/>
+        <attr name="dateColumnPaddingLeft" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="UnlockBar">
+        <attr name="progress" format="integer" />
+        <attr name="max" format="integer" />
+        <attr name="thumb" format="reference" />
+        <attr name="progressdrawable" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="sign_out">"Kids Zone থেকে প্রস্থান করুন"</string>
+    <string name="enter_parent">"অভিভাবক মোড"</string>
+
+    <string name="person_model">"ব্যক্তিগত কেন্দ্র"</string>
+    <string name="use_of_day">"দৈনিক সময় ব্যবহৃত"</string>
+    <string name="top_five">"ঘনঘন ব্যবহৃত অ্যাপ্লিকেশন"</string>
+    <string name="take_photo">"ক্যামেরা কী"</string>
+    <string name="gallery">"গ্যালারি"</string>
+
+    <string name="app_manage">"অ্যাপ্লিকেশন ব্যবস্থাপনা"</string>
+    <string name="select_use_time">"দয়া করে অধিবেশন ব্যবহারের সময় নির্বাচন করুন"</string>
+    <string name="select_break_time">"দয়া করে অধিবেশন বিশ্রামের সময় নির্বাচন করুন"</string>
+    <string name="radio_5m">"৫ মিনিট"</string>
+    <string name="radio_15m">১৫ মিনিট</string>
+    <string name="radio_20m">২০ মিনিট</string>
+    <string name="radio_30m">৩০ মিনিট</string>
+    <string name="radio_40m">৪০ মিনিট</string>
+    <string name="radio_1h">১ ঘণ্টা</string>
+    <string name="radio_2h">২ ঘণ্টা</string>
+    <string name="setting_time">"%1$d মিনিট ব্যবহার করুন / বিশ্রাম %2$d মিনিট"</string>
+
+    <string name="welcome">"আপনাকে স্বাগতম Kids Zone\n দয়া করে নিম্নে উল্লিখিত সেটিংস কনফিগার করুন"</string>
+    <string name="user_icon">"চিত্রগুলি নির্বাচন করুন"</string>
+    <string name="birth">"জন্মদিন"</string>
+    <string name="user_name">"নাম"</string>
+    <string name="user_name_hint">"দয়া করে সন্তানের নাম ইনপুট করুন"</string>
+    <string name="user_birth_hint">"দয়া করে সন্তানের জন্মদিন নির্বাচন করুন"</string>
+
+    <string name="input_password">"দয়া করে ৪ ডিজিটের পাসওয়ার্ড ইনপুট করুন"</string>
+    <string name="again_input_password">"দয়া করে আবার পাসওয়ার্ড ইনপুট করুন"</string>
+    <string name="password_success">"পাসওয়ার্ড সফলভাবে সেট করা হয়েছে"</string>
+    <string name="password_error">"এন্ট্রি মিলছে না, অনুগ্রহপূর্বক আবার চেষ্টা করুন।"</string>
+    <string name="input_answer">"দয়া করে সঠিক উত্তর লিখুন"</string>
+    <string name="answer_error">"উত্তর ভুল, দয়া করে আবার ইনপুট করুন"</string>
+    <string name="forget_password">"পাসওয়ার্ড ভুলে গেছেন?"</string>
+    <string name="new_password">"আপনার পাসওয়ার্ড হল %1$s"</string>
+    <string name="password_error_input">"পাসওয়ার্ড ভুল, দয়া করে পুনরায় প্রবেশ করান"</string>
+
+    <string name="use_of_day_title">"গত সপ্তাহের জন্য দৈনিক ব্যবহারের সময়"</string>
+    <string name="top_five_title">"গত সপ্তাহের জন্য ফেভারিট অ্যাপস"</string>
+
+    <string name="app_info">"2009-2016 Transsion Holdings.\n সর্বস্বত্ব সংরক্ষিত"</string>
+
+    <string name="enter_parent_mode">"অভিভাবক মোডে প্রবেশ করুন"</string>
+    <string name="add_use_time">"ব্যবহারের সময় বৃদ্ধি করুন"</string>
+
+    <string name="ok">"ঠিক আছে"</string>
+    <string name="cancel">"বাতিল করুন"</string>
+    <string name="overplus_time">"বিশ্রামের অবশিষ্ট সময় &#160;&#160;%1$s"</string>
+    <string name="guide_choose_format">"দয়া করে আপনার সন্তানের প্রবেশ করার জন্য অ্যাপস নির্বাচন করুন (%1$d/%2$d)"</string>
+
+    <string name="time_up">"সময় শেষ হয়ে যাচ্ছে"</string>
+    <string name="user_name_not_null">"ব্যবহারকারীর নাম ফাঁকা হতে পারে না"</string>
+    <string name="exit_dialog_hint">"দয়া করে থেকে প্রস্থান করবেন কিনা তা নিশ্চিত করুন Kids Zone"</string>
+    <string name="select_img">"চিত্র নির্বাচন করুন"</string>
+    <string name="mobile_data_close">"ডেটা সংযোগ বন্ধ করুন"</string>
+    <string name="column_time">সময় (ঘন্টা)</string>
+    <string name="column_date">"তারিখ"</string>
+    <string name="column_app">"অ্যাপ্লিকেশান"</string>
+    <string name="charge_hint">"প্রিয় বালক, ডিভাইসটি এখন চার্জ হচ্ছে, অনুগ্রহ করে বিশ্রাম নিন"</string>
+    <string name="permissions_msg">"বর্তমান অ্যাপটির অপরিহার্য অনুমতির অভাব আছে, অ্যাপটিতে অনুমতি প্রদান করতে অনুগ্রহ করে &#160; সেটিংস&#160;-&#160;অ্যাপ&#160;-&#160;অনুমতিতে&#160; যান; অ্যাপ থেকে প্রস্থান করা বাতিল করুন"</string>
+    <string name="permissions_help">"সাহায্য করুন"</string>
+    <string name="permissions_setting">"সেটিংস"</string>
+    <string name="no_sim">"কোনো সিম কার্ড নেই"</string>
+    <string name="airplane_mode">"উড়োজাহাজ মোড চালু"</string>
+    <string name="charge_full_hint">চার্জ সম্পূর্ণ</string>
+
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">চার্জ হচ্ছে &#160;%1$s%%</string>
+    <string name="exit_charing">"চার্জ করার সুরক্ষা থেকে প্রস্থান করুন "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

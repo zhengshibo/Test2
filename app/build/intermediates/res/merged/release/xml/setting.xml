@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<Setting xmlns:setting="http://schemas.android.com/com.dollyphin.kidszone">
+    <SettingItem
+        setting:isModel="1"
+        setting:label="parent_manage" />
+
+    <SettingItem
+        setting:label="change_pwd"
+        setting:right_part="right_arrow"
+        setting:setting_className="com.dollyphin.kidszone.parent.BackgroundActivity"
+        setting:setting_packageName="com.dollyphin.kidszone"
+        setting:skip_marke="10000" />
+
+    <SettingItem
+        setting:label="time_agreement"
+        setting:right_part="selection_value"
+        setting:setting_className="com.dollyphin.kidszone.parent.BackgroundActivity"
+        setting:setting_packageName="com.dollyphin.kidszone"
+        setting:skip_marke="10001"
+        setting:value_key="time_agreement" />
+
+    <SettingItem
+        setting:label="flowmeter"
+        setting:right_part="switch"
+        setting:value_key="is_open_data" />
+
+    <SettingItem
+        setting:label="app_market"
+        setting:right_part="right_arrow"
+        setting:setting_className="com.android.vending.AssetBrowserActivity"
+        setting:setting_packageName="com.android.vending" />
+
+    <SettingItem
+        setting:label="app_manage"
+        setting:right_part="right_arrow"
+        setting:setting_className="com.dollyphin.kidszone.app.AppFilter"
+        setting:setting_packageName="com.dollyphin.kidszone" />
+
+    <SettingItem
+        setting:isModel="1"
+        setting:label="system_setting" />
+
+    <SettingItem
+        setting:label="eye_model"
+        setting:right_part="switch"
+        setting:value_key="is_eye_model" />
+
+    <SettingItem
+        setting:label="brightness"
+        setting:right_part="progressbar"
+        setting:value_key="brightness" />
+
+    <SettingItem
+        setting:label="multimedia_volume"
+        setting:right_part="progressbar"
+        setting:value_key="volume" />
+
+    <SettingItem
+        setting:label="wallpaper"
+        setting:right_part="right_arrow"
+        setting:setting_className="com.dollyphin.kidszone.parent.BackgroundActivity"
+        setting:setting_packageName="com.dollyphin.kidszone"
+        setting:skip_marke="10002"
+        setting:value_key="wallppaper" />
+
+    <SettingItem
+        setting:label="wifi"
+        setting:right_part="selection_value"
+        setting:setting_className="com.android.settings.wifi.WifiSettings"
+        setting:setting_packageName="com.android.settings"
+        setting:value_key="wifi" />
+
+    <SettingItem
+        setting:label="about"
+        setting:right_part="right_arrow"
+        setting:setting_className="com.dollyphin.kidszone.parent.BackgroundActivity"
+        setting:setting_packageName="com.dollyphin.kidszone"
+        setting:skip_marke="10003" />
+
+    <SettingItem />
+
+
+</Setting>

@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Sair \n KidsZone</string>
+    <string name="sign_out">Sair Kids Zone</string>
+    <string name="enter_parent">Modo parentes</string>
+
+    <string name="person_model">Centro pessoal</string>
+    <string name="parent_manage">Controle dos pais</string>
+    <string name="use_of_day">Tempo de uso diário</string>
+    <string name="top_five">Aplicativo mais usado</string>
+    <string name="take_photo">"Tirar fotografia"</string>
+    <string name="gallery">"Galeria"</string>
+
+    <string name="change_pwd">Alterar palavra-passe</string>
+    <string name="time_agreement">Acordo de tempo</string>
+    <string name="flowmeter">Limitação de dados</string>
+    <string name="app_manage">Gerenciamento de aplicativos</string>
+    <string name="app_market">Mercado de aplicativos</string>
+    <string name="system_setting">Definições do sistema</string>
+    <string name="eye_model">Modo de cuidados com os olhos</string>
+    <string name="brightness">Brilho</string>
+    <string name="volume">Volume</string>
+    <string name="wallpaper">Imagem de fundo</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">Acerca de</string>
+    <string name="select_use_time">Selecione cada tempo de uso</string>
+    <string name="select_break_time">Por favor selecione cada tempo de descanso</string>
+    <string name="radio_5m">5"min"</string>
+    <string name="radio_10m">10"min"</string>
+    <string name="radio_15m">15"min"</string>
+    <string name="radio_20m">20"min"</string>
+    <string name="radio_30m">30"min"</string>
+    <string name="radio_40m">40"min"</string>
+    <string name="radio_1h">1"hora"</string>
+    <string name="radio_2h">2"horas"</string>
+    <string name="setting_time">Usado para %1$d minutos /Repouso para%2$d minutos</string>
+
+    <string name="welcome">Bem-vindo ao Kidzone\nPor favor complete o seguinte guia de configuração</string>
+    <string name="user_icon">Selecione uma foto</string>
+    <string name="birth">"Data de nascimento"</string>
+    <string name="user_name">Nome</string>
+    <string name="user_name_hint">Introduza o nome da criança</string>
+    <string name="user_birth_hint">Selecione o aniversário da criança</string>
+    <string name="app_filter">Modo parentes- Gerenciamento de aplicativos</string>
+
+    <string name="input_password">Introduza uma palavra-passe de 4 bits</string>
+    <string name="again_input_password">Confirme a senha</string>
+    <string name="password_success">Senha definida com êxito</string>
+    <string name="password_error">As duas senhas digitadas são inconsistentes, insira novamente.</string>
+    <string name="input_answer">Por favor, indique resposta correta</string>
+    <string name="answer_error">Resposta errada, digite novamente</string>
+    <string name="forget_password">Senha esquecida?</string>
+    <!--<string name="new_password">Sua senha é %1$s</string>-->
+    <string name="new_password"><![CDATA[Sua senha<font color="#00ff1212">%1$s</font>]]></string>
+    <string name="password_error_input">Erro de senha, digite novamente</string>
+    <string name="use_of_day_title">Tempo de uso diário na semana passada</string>
+    <string name="top_five_title">Aplicativos usados com frequência na semana passada</string>
+
+    <string name="enter_parent_mode">Entre no modo parentes</string>
+    <string name="add_use_time">Adicionar tempo de uso</string>
+
+    <string name="ok">ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n Todos os direitos reservados"</string>
+    <string name="multimedia_volume">Volume multimídia</string>
+    <!--<string name="guide_choose_format">Selecione aplicativos que as crianças podem usar(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[Selecione aplicativos que as crianças podem usar（<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">Hey pequeno amigo, por favor, não jogue enquanto estiver deitado!</string>
+    <string name="time_up">O tempo está acabando</string>
+    <string name="user_name_not_null">O nome de utilizador não pode ser nulo</string>
+    <string name="overplus_time">Tempo de repouso restante &#160;&#160;%1$s</string>
+    <string name="exit_dialog_hint">Confirme se deseja sair da Kids Zone</string>
+    <string name="select_img">Selecionar imagem</string>
+    <string name="column_time">Tempo(h)</string>
+    <string name="column_date">Date</string>
+    <string name="column_app">Uso</string>
+    <string name="charge_hint">Estimado, o dispositivo está carregando agora, por favor, tenha um descanso</string>
+    <string name="permissions_msg">"O aplicativo atual não tem permissões essenciais, vá para &#160; Configurações&#160;-&#160;Apps&#160;-&#160; Permissões&#160; para conceder permissão ao aplicativo; Cancelar para sair do app"</string>
+    <string name="permissions_help">SOCORRO</string>
+    <string name="permissions_setting">Definições</string>
+    <string name="mobile_data_close">Desativar a conexão de dados</string>
+    <string name="no_sim">Sem SIM</string>
+    <string name="airplane_mode">"Modo avião está ligado "</string>
+    <string name="charge_full_hint">Carga completa</string>
+
+    <string name="exit_dialog_title">Sair</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">Carregando &#160;%1$s%%</string>
+    <string name="exit_charing">"Proteção de carga de saída "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

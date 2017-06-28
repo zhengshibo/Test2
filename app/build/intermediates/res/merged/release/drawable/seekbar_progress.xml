@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape android:shape="line">
+            <stroke
+                android:width="2dp"
+                android:color="@color/grep_e1e" />
+        </shape>
+    </item>
+    <!--<item android:id="@android:id/secondaryProgress">-->
+        <!--<clip>-->
+            <!--<shape>-->
+                <!--<solid android:color="#ff51495e" />-->
+            <!--</shape>-->
+        <!--</clip>-->
+    <!--</item>-->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="line">
+                <stroke
+                    android:width="2dp"
+                    android:color="@color/orange_f48" />
+            </shape>
+        </clip>
+    </item>
+</layer-list>

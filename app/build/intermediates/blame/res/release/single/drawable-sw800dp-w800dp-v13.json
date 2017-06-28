@@ -1,0 +1,586 @@
+[
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ic_about.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\enter_parent_model.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\enter_parent_model.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\time_out_view.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\time_out_view.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charging_view.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charging_view.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\user_photo_default.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\user_photo_default.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\limit_time_checked.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\limit_time_checked.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ready.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ready.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_12.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_12.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\pop_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\pop_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\status_bar.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\status_bar.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charging_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charging_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\kids_system_ui_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\kids_system_ui_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\time_out_pwd_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\time_out_pwd_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_ok_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_ok_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_11.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_11.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_next_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_next_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ic_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ic_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_back_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_back_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_next_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_next_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\limit_time_uncheck.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\limit_time_uncheck.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon_mask.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon_mask.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\dollyphin_cry.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\dollyphin_cry.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\system_ui_enter.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\system_ui_enter.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\exit_charging.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\exit_charging.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_11.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_11.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\common_view.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\common_view.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\usage_time_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\usage_time_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\wallpaper_checked.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\wallpaper_checked.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charging_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charging_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\app_select.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\app_select.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\system_ui_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\system_ui_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ic_pageindicator_default.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ic_pageindicator_default.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\parent_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\parent_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ok.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ok.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\input.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\input.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\add_time_uncheck.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\add_time_uncheck.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ic_launcher.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\under_line_photo.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\under_line_photo.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ic_pageindicator_current.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ic_pageindicator_current.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\add_use_time.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\add_use_time.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_11.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_11.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_background.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_background.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\txt_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\txt_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charging_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charging_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\keyboard.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\keyboard.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\add_time_checkded.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\add_time_checkded.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\right_arrow.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\right_arrow.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\wifi_icon.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\wifi_icon.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charge_lock_screen.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charge_lock_screen.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_choose_app_select.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_choose_app_select.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charging_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charging_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_progress.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_progress.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_11.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_11.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_c.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_c.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\other_lock_screnn.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\other_lock_screnn.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charging_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charging_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_back_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_back_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\password.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\password.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\used_app_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\used_app_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_ok_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_ok_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\ic_back.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\ic_back.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\welcome_importance.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\welcome_importance.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\guide_choose_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\guide_choose_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_chooser_wallpaper_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_chooser_wallpaper_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_thumb.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_thumb.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\time_out_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\time_out_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\emergency_dialer.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\emergency_dialer.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\divider.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\divider.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_wallpaper_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_wallpaper_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\num_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\num_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\charging_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\charging_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\lock_screen_10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\lock_screen_10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\other_view.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\other_view.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\icon_background.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\icon_background.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\setting_preview_wallpaper_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\setting_preview_wallpaper_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-sw800dp-w800dp-v13\\poor_form_full_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-sw800dp-w800dp\\poor_form_full_2.png"
+    }
+]

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<resources>
+    <color name="kids_system_ui_bg">#33000000</color>
+    <color name="status_bar_btn_color">#ff00ff</color>
+    <color name="divider">#77ffffff</color>
+    <color name="icon_text_color">#ffffff</color>
+    <color name="icon_text_color_dark">#333333</color>
+    <color name="gray">#b6b6b6</color>
+    <color name="guide_text_color">#333333</color>
+    <color name="guide_hint_text_color">#77333333</color>
+    <color name="divider_color">#4000</color>
+
+    <color name="black">#000</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#fff</color>
+
+    <color name="forget_pwd">#45cab9</color>
+    <color name="title_bar_color">#f48d13</color>
+    <color name="black_333">#333333</color>
+    <color name="black_hint_333">#7f333333</color>
+    <color name="grep_eee">#eee</color>
+    <color name="grep_e1e">#e1e1e1</color>
+    <color name="orange_f48">#f48d13</color>
+    <color name="gray_b3b">#b3b3b3</color>
+    <!-- 20% #000000-->
+    <color name="black_per_20">#33000000</color>
+    <!-- 30% #000000-->
+    <color name="black_per_30">#4D000000</color>
+    <!-- 40% #000000-->
+    <color name="black_per_40">#66000000</color>
+    <!-- 50% #333333-->
+    <color name="black_33_per_30">#7f333333</color>
+
+    <!--70% #000000-->
+    <color name="black_per_70">#b2000000</color>
+
+    <color name="rect_app">#ff6565</color>
+    <color name="rect_date">#658dff</color>
+
+    <color name="green_txt">#41a902</color>
+    <color name="green_txt_3a9">#3a9403</color>
+    <color name="red_txt_993">#993600</color>
+    <color name="blue_txt_0b8">#0b8e5e</color>
+    <color name="blue_txt_82f">#82ffb4</color>
+    <color name="blue_txt_095">#095427</color>
+
+    <color name="pwd_prompt">#333333</color>
+    <color name="timeout_color">#333333</color>
+    <color name="welcome_text_color">#333333</color>
+    <color name="choose_title_textcolor">#333333</color>
+    <color name="charge_hint_text_color">#333333</color>
+    <color name="exit_charging_hit">#8f6e1a</color>
+    <color name="pwd_show_textcolor">#000</color>
+</resources>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dollyphin.kidszone"
+    android:sharedUserId="android.uid.system"
+    android:versionCode="1"
+    android:versionName="V1.0 - 170620" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.READ_FRAME_BUFFER" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_PHONE_STATE" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.ACCESS_KEYGUARD_SECURE_STORAGE" />
+
+    <protected-broadcast android:name="com.dollyphin.kidszone.action.IN_KIDSZONE" />
+    <protected-broadcast android:name="com.dollyphin.kidszone.action.OUT_KIDSZONE" />
+
+    <application
+        android:name="com.dollyphin.kidszone.application.KidsZoneApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="@bool/supports_rtl"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.dollyphin.kidszone.startpage.StartPage"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.HOME_KIDSZONE" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dollyphin.kidszone.home.KidsZoneHome"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="screenSize|orientation"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTask"
+            android:stateNotNeeded="true"
+            android:theme="@style/AppTheme.homePage"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.HOME_KiDSZONE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dollyphin.kidszone.parent.ParentalControlMode"
+            android:launchMode="singleTask"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.dollyphin.kidszone.app.AppFilter"
+            android:theme="@style/AppTheme.AppFilter"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.dollyphin.kidszone.parent.BackgroundActivity"
+            android:theme="@style/ActivityTransparent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+        <activity
+            android:name="com.dollyphin.kidszone.util.ChooseUserPhoto"
+            android:theme="@style/ActivityTransparent" />
+        <activity
+            android:name="com.dollyphin.kidszone.startpage.Shutdown"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="com.dollyphin.kidszone.lockscreen.LockScreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:launchMode="singleTask"
+            android:taskAffinity=""
+            android:theme="@style/ActivityTransparent"
+            android:windowSoftInputMode="adjustPan|stateHidden" />
+
+        <receiver android:name="com.dollyphin.kidszone.app.LocaleChangeReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.dollyphin.kidszone.app.LocaleService" >
+            <action android:name="kidszone.locale.change" />
+        </service>
+    </application>
+
+</manifest>

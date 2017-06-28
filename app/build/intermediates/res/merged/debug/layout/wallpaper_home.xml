@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/viewstub_rel"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_per_70"
+    android:clipChildren="false">
+
+    <com.dollyphin.kidszone.home.WallpaperChooser
+        android:id="@+id/viewstub_wallpaper_viewpager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clipChildren="false" />
+</RelativeLayout>

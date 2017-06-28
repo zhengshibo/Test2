@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="line">
+    <stroke
+        android:width="4dp"
+        android:color="@color/gray_b3b" />
+
+    <size android:height="4dp" />
+
+</shape>

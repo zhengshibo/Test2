@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<resources>
+    <color name="welcome_text_color">#8f5e09</color>
+    <color name="exit_charging_hit">#df6e1a</color>
+    <color name="timeout_color">#3c39a8</color>
+    <color name="charge_hint_text_color">#8f5e09</color>
+    <color name="pwd_show_textcolor">#333333</color>
+    <color name="orange_f48">#f38d12</color>
+    <color name="gray_b3b">#898989</color>
+</resources>

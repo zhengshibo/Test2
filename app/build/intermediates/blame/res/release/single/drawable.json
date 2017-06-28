@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\select_switch_trace.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\select_switch_trace.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\anim_poor_form.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\anim_poor_form.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide_ok.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\guide_ok.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_switch_thumb_on.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_switch_thumb_on.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\select_switch_thumb.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\select_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_seekbar_thumb.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\select_btn.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\select_btn.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_switch_trace_off.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_switch_trace_off.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_black_under_line.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_black_under_line.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\line.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ripple_usage_time_bg.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\ripple_usage_time_bg.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ripple_used_app_bg.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\ripple_used_app_bg.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\select_seekbar.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\select_seekbar.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\seekbar_progress.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide_next.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\guide_next.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\guide_back.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\guide_back.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_seekbar_thumb_prosse.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_seekbar_thumb_prosse.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_switch_thumb_off.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_switch_thumb_off.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\select_add_time_check_mark.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\select_add_time_check_mark.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\anim_poor_form_repeat.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\anim_poor_form_repeat.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_add_use_time.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_add_use_time.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\anim_lock_screen_charging.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\anim_lock_screen_charging.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_limit_item_space.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_limit_item_space.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shape_switch_trace_on.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable\\shape_switch_trace_on.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    }
+]

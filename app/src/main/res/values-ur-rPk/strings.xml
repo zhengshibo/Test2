@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Kids Zone سے باہر نکلیں</string>
+    <string name="sign_out">Kids Zone سے باہر نکلیں</string>
+    <string name="enter_parent">والدین کا موڈ</string>
+
+    <string name="person_model">ذاتی سینٹر</string>
+    <string name="parent_manage">والدین کا کنٹرول</string>
+    <string name="use_of_day">روزانہ استعمال کا وقت</string>
+    <string name="top_five">سب سے متواتر استعمال کردہ ایپ</string>
+    <string name="take_photo">تصویر لیں</string>
+    <string name="gallery">میری تصویر</string>
+
+    <string name="change_pwd">پاس ورڈ تبدیل کریں</string>
+    <string name="time_agreement">وقت کا اتفاق</string>
+    <string name="flowmeter">ڈیٹا کی حد</string>
+    <string name="app_manage">ایپ کی تنظیم</string>
+    <string name="app_market">ایپ مارکیٹ</string>
+    <string name="system_setting">سسٹم کی ترتیبات</string>
+    <string name="eye_model">آنکھ کی نگہداشت کا موڈ</string>
+    <string name="brightness">چمکیلا پن</string>
+    <string name="volume">حجم</string>
+    <string name="wallpaper">وال پیپر</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">متعلق</string>
+    <string name="select_use_time">براہِ کرم ہر استعمال کا وقت منتخب کریں</string>
+    <string name="select_break_time">براہِ کرم ہر آرام کا وقت منتخب کریں</string>
+    <string name="radio_5m">5منٹ</string>
+    <string name="radio_10m">10منٹ</string>
+    <string name="radio_15m">15منٹ</string>
+    <string name="radio_20m">20منٹ</string>
+    <string name="radio_30m">30منٹ</string>
+    <string name="radio_40m">40منٹ</string>
+    <string name="radio_1h">1گھنٹے</string>
+    <string name="radio_2h">2گھنٹے</string>
+    <string name="setting_time">%1$d منٹس کے لیے استعمال کیا گیا/ باقی %2$d منٹس کے لیے</string>
+
+    <string name="welcome">ڈولفن Kids Zone میں خوش آمدید\nبراہِ کرم مندرجہ ذیل سیٹ اپ کی گائیڈ مکمل کریں</string>
+    <string name="user_icon">براہِ کرم تصّویر منتخب کریں</string>
+    <string name="birth">تاریخ پیدائش</string>
+    <string name="user_name">نام</string>
+    <string name="user_name_hint">براہِ کرم بچے/بچی کا نام درج کریں</string>
+    <string name="user_birth_hint">براہِ کرم بچے/بچی کی سالگرہ منتخب کریں</string>
+    <string name="app_filter">والدین کا موڈ- ایپ کی تنظیم</string>
+
+    <string name="input_password">براہِ کرم 4-بٹ کا پاس ورڈ درج کریں</string>
+    <string name="again_input_password">براہِ کرم پاس ورڈ کی تصّدیق کریں</string>
+    <string name="password_success">پاس ورڈ کامیابی سے سیٹ ہو گیا</string>
+    <string name="password_error">آپ نے جو دو پاس ورڈ درج کیے وہ یکساں نہیں، براہِ کرم دوبارہ درج کریں۔</string>
+    <string name="input_answer">براہِ کرم درست جواب درج کریں</string>
+    <string name="answer_error">غلط جواب، براہِ کرم دوبارہ درج کریں</string>
+    <string name="forget_password">پاس ورڈ بھول گئے؟</string>
+    <!--<string name="new_password">آپ کا پاس ورڈ %1$s ہے</string>-->
+    <string name="new_password"><![CDATA[آپ کا پاس ورڈ <font color="#00ff1212">%1$s</font>s ہے]]></string>
+    <string name="password_error_input">پاس ورڈ کا نقص، براہِ کرم دوبارہ درج کریں</string>
+
+    <string name="use_of_day_title">پچھلے ہفتے کا ڈیٹا کے استعمال کا وقت</string>
+    <string name="top_five_title">پچھلے ہفتے اکثر استعمال کردہ ایپس</string>
+
+    <string name="enter_parent_mode">والدین کے موڈ میں داخل ہوں</string>
+    <string name="add_use_time">استعمال کا وقت شامل کریں</string>
+
+    <string name="ok">ٹھیک ہے</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n جملہ حقوق محفوظ ہیں"</string>
+    <string name="multimedia_volume">ملٹی میڈیا والیوم</string>
+    <!--<string name="guide_choose_format">بچے جن ایپس کو استعمال کرسکتے ہیں انہیں منتخب کریں(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[بچے جن ایپس کو استعمال کرسکتے ہیں انہیں منتخب کریں（<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">ہائے چھوٹے دوست، مہربانی کرکے لیٹے ہو ئے مت کھیلیں!</string>
+    <string name="time_up">ٹائم ختم ہورہا ہے</string>
+    <string name="user_name_not_null">یوزر نام خالی نہیں ہو سکتا</string>
+    <string name="overplus_time">بقیہ آرام کا وقت  &#160;&#160;%1$s</string>
+    <string name="exit_dialog_hint">مہربانی کرکے کنفرم کریں کہ ڈولی پن Kids Zone سے آپ باہر آنا چاہتے ہیں</string>
+    <string name="select_img">تصویر کا انتخاب کریں</string>
+    <string name="column_time">وقت (h)</string>
+    <string name="column_date">تاریخ</string>
+    <string name="column_app">ایپس</string>
+    <string name="charge_hint">پیارے بچے، ڈیوائس چارج ہورہی ہے، مہربانی کرکے آرام کریں</string>
+    <string name="permissions_msg">موجودہ ایپس کو ضروری اجازتیں حاصل نہ ہیں، مہربانی کرکے جائیں سیٹنگز اور #160;&#160;-&#160;ایپس&#160;-&#160; ایپ کو اجازت دینے کےلیے؛ ایپ سے نکلنے کے لیے منسوخ کریں</string>
+    <string name="permissions_help">مدد</string>
+    <string name="permissions_setting">ترتیبات</string>
+    <string name="mobile_data_close">ڈیٹا کنکشن بند کردیں</string>
+    <string name="no_sim">‏کوئی SIM نہیں ہے۔</string>
+    <string name="airplane_mode">"\"ہوائی جہاز وضع آن ہے\" "</string>
+    <string name="charge_full_hint">چارج مکمل ہو گیا</string>
+
+    <string name="exit_dialog_title">باہر نکلیں</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">چارج ہو رہا ہے &#160;%1$s%%</string>
+    <string name="exit_charing">"چارجنگ کی حفاظت سے خروج کریں "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

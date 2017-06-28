@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/guide_ok_enable" android:state_enabled="true"/>
+    <item android:drawable="@drawable/guide_ok_disable" android:state_enabled="false"/>
+</selector>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grep_eee"
+    android:clickable="false"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal">
+
+    <View
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="1dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/grep_e1e" />
+
+    <TextView
+        android:id="@+id/setting_model_middle"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/setting_model_item_height"
+        android:layout_marginEnd="@dimen/parent_item_model_margin"
+        android:layout_marginStart="@dimen/parent_item_model_margin"
+        android:gravity="center_vertical"
+        android:textColor="@color/black_333"
+        android:textSize="@dimen/model_person_text_size" />
+
+    <View
+        android:layout_width="@dimen/dp_100"
+        android:layout_height="1dp"
+        android:layout_gravity="center_vertical"
+        android:background="@color/grep_e1e" />
+
+</LinearLayout>

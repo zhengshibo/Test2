@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/app_filter"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_bar_height"
+        android:background="@color/title_bar_color">
+
+     <!--add by zhengshibo for bug:56290-->
+        <ImageView
+            android:id="@+id/app_filter_title_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:paddingStart="@dimen/parent_back_padding"
+            android:paddingEnd="@dimen/parent_back_padding"
+            android:background="?android:attr/selectableItemBackground"
+            android:src="@drawable/ic_back"/>
+
+        <TextView
+            android:id="@+id/app_filter_title"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:textColor="@color/white"
+            android:textSize="@dimen/parent_back_text_size"
+            android:layout_toRightOf="@id/app_filter_title_bar"
+            android:minWidth="@dimen/title_bar_left_minWidth"
+            android:text="@string/app_manage" />
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/app_filter_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

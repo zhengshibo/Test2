@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.view.TimeOutLockScreenView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/v_time_out_img_part"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="@dimen/time_out_icon_margin_start"
+        android:paddingTop="@dimen/time_out_icon_padding_top"
+        android:src="@drawable/dollyphin_cry" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/time_out_txt_margin_start"
+        android:layout_marginTop="@dimen/time_out_txt_margin_top"
+        android:background="@drawable/txt_bg"
+        android:gravity="center"
+        android:minHeight="@dimen/time_out_txt_height"
+        android:minWidth="@dimen/time_out_txt_width"
+        android:singleLine="true"
+        android:text="@string/time_up"
+        android:textColor="@color/timeout_color"
+        android:textSize="@dimen/txt_size_24" />
+
+    <RelativeLayout
+        android:layout_width="@dimen/time_out_item_space_width"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/time_out_select_margin_top">
+
+        <Button
+            android:id="@+id/v_time_out_add_use_time"
+            style="@style/timeOutBtn"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/time_out_item_margin"
+            android:layout_marginTop="@dimen/time_out_item_margin"
+            android:background="@drawable/add_use_time"
+            android:text="@string/add_use_time"
+            android:textColor="@color/red_txt_993" />
+
+        <Button
+            android:id="@+id/v_time_out_enter_parent_mode"
+            style="@style/timeOutBtn"
+            android:layout_above="@id/v_time_out_add_use_time"
+            android:background="@drawable/enter_parent_model"
+            android:text="@string/enter_parent_mode"
+            android:textColor="@color/green_txt_3a9" />
+
+        <Button
+            android:id="@+id/v_time_out_sign_out"
+            style="@style/timeOutBtn"
+            android:layout_below="@id/v_time_out_add_use_time"
+            android:background="@drawable/time_out_exit"
+            android:text="@string/sign_out"
+            android:textColor="@color/blue_txt_0b8" />
+
+
+    </RelativeLayout>
+
+    <com.dollyphin.kidszone.view.StrokeTextView
+        android:id="@+id/v_add_use_time_break_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/overplus_time_margin_bottom"
+        android:gravity="right"
+        android:paddingEnd="@dimen/overplus_time_margin_end"
+        android:singleLine="true"
+        android:text="@string/overplus_time"
+        android:textColor="@color/blue_txt_82f"
+        android:textSize="@dimen/txt_size_24" />
+
+    <View
+        android:id="@+id/v_pwd_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black_per_30" />
+
+    <RelativeLayout
+        android:id="@+id/v_time_out_password_space"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/kids_system_ui_bg"
+        android:clickable="true" />
+
+    <ImageView
+        android:id="@+id/v_password_exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/password_exit_btn_margin"
+        android:layout_marginTop="@dimen/password_exit_btn_margin"
+        android:adjustViewBounds="true"
+        android:src="@drawable/guide_exit"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/lock_screen_parent_show_pwd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/show_pwd_margin_start"
+        android:layout_marginTop="@dimen/show_pwd_margin_top"
+        android:background="@drawable/txt_bg"
+        android:gravity="center"
+        android:textColor="@color/black_333"
+        android:textSize="@dimen/txt_size_28" />
+
+    <ImageView
+        android:id="@+id/v_tome_out_orientation_portrait"
+        android:layout_width="@dimen/portrait_width"
+        android:layout_height="@dimen/portrait_height"
+        android:background="@drawable/time_out_view"
+        android:visibility="gone" />
+</com.dollyphin.kidszone.view.TimeOutLockScreenView>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.systemui.Expand xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/expand"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.dollyphin.kidszone.view.KidsZoneDialogView
+        android:id="@+id/password_status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+    </com.dollyphin.kidszone.view.KidsZoneDialogView>
+
+    <RelativeLayout
+        android:id="@+id/system_ui"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:background="@drawable/kids_system_ui_bg"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/enter_parent"
+            style="@style/SystemUiItemTextStyle"
+            android:layout_marginStart="@dimen/system_ui_expand_padding"
+            android:background="@drawable/system_ui_enter"
+            android:text="@string/enter_parent"
+            android:textColor="@color/green_txt_3a9" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/divider" />
+
+        <TextView
+            android:id="@+id/exit_kids"
+            style="@style/SystemUiItemTextStyle"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="@dimen/system_ui_expand_padding"
+            android:background="@drawable/system_ui_exit"
+            android:text="@string/sign_out"
+            android:textColor="@color/blue_txt_0b8" />
+    </RelativeLayout>
+</com.dollyphin.kidszone.systemui.Expand>

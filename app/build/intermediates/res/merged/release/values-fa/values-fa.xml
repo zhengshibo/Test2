@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"‏%1$s‏، %2$s‏، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"پیمایش به بالا"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"گزینه‌های بیشتر"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"انجام شد"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"مشاهده همه"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"انتخاب برنامه"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"جستجو…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"پاک کردن عبارت جستجو"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"عبارت جستجو"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"جستجو"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"ارسال عبارت جستجو"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"جستجوی شفاهی"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏اشتراک‌گذاری با %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
+    <string name="about">درباره</string>
+    <string name="add_use_time">افزودن زمان مصرف</string>
+    <string name="again_input_password">لطفاً رمز ورود را تأیید کنید</string>
+    <string name="airplane_mode">"حالت هواپیما روشن است "</string>
+    <string name="answer_error">پاسخ اشتباه است، لطفاً دوباره امتحان کنید</string>
+    <string name="app_filter">حالت والدین - مدیریت برنامه ها</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n همه حقوق محفوظ است"</string>
+    <string name="app_manage">مدیریت برنامه ها</string>
+    <string name="app_market">بازار برنامه</string>
+    <string name="app_name">Kids Zone</string>
+    <string name="birth">تاریخ تولد</string>
+    <string name="brightness">روشنایی</string>
+    <string name="cancel">کنسل</string>
+    <string name="change_pwd">تغییر گذرواژه</string>
+    <string name="charge_full_hint">شارژ کامل شد</string>
+    <string name="charge_hint">بچه عزیز، دستگاه در حال حاضر شارژ، لطفا استراحت کنید</string>
+    <string name="charging">در حال شارژ  %1$s%%</string>
+    <string name="column_app">برنامه‌ها</string>
+    <string name="column_date">تاریخ</string>
+    <string name="column_time">زمان (h)</string>
+    <string name="enter_parent">حالت والدین</string>
+    <string name="enter_parent_mode">ورود به حالت والدین</string>
+    <string name="exit_charing">"از حفاظت از شارژ خارج شوید "</string>
+    <string name="exit_dialog_hint">لطفا تایید کنید که آیا می خواهید از Kids Zone خارج شوید؟</string>
+    <string name="exit_dialog_title">خروج</string>
+    <string name="exit_kidszone">Kids Zone خارج شوید</string>
+    <string name="eye_model">حالت مراقبت از چشم</string>
+    <string name="flowmeter">محدودیت داده</string>
+    <string name="forget_password">رمز ورود را فراموش کرده‌اید؟</string>
+    <string name="gallery">"گالری"</string>
+    <string name="guide_choose_format">لطفا برنامه هایی را که بچه ها حق استفاده از آن را دارند انتخاب کنید（&lt;font color="#00ff6b00">%1$d/%2$d&lt;/font>）</string>
+    <string name="input_answer">لطفا جواب صحیح را وارد کنید</string>
+    <string name="input_password">لطفاً یک رمز ورود 4 رقمی وارد کنید</string>
+    <string name="mobile_data_close">اتصال داده را ببند</string>
+    <string name="multimedia_volume">حجم چند رسانه ای</string>
+    <string name="new_password">رمز ورود شما font color="#00ff1212">%1$s&lt;/font> است></string>
+    <string name="no_sim">بدون سیم کارت.</string>
+    <string name="ok">تاييد</string>
+    <string name="other_lock_screen_hint">هی رفیق، لطفاً دراز کشیده بازی نکن!</string>
+    <string name="overplus_time">زمان باقیمانده   %1$s</string>
+    <string name="parent_manage">کنترل والدین</string>
+    <string name="password_error">دو رمز ورودی که وارد می‌کنید متفاوت هستند، لطفاً دوباره وارد کنید.</string>
+    <string name="password_error_input">خطای رمز ورود، لطفاً دوباره وارد کنید</string>
+    <string name="password_success">رمز ورود با موفقیت تنظیم شد</string>
+    <string name="permissions_help">راهنما</string>
+    <string name="permissions_msg">برنامه فعلی فاقد مجوز ضروری است، لطفا به تنظیمات- نرم افزار - مجوز  برنامه بروید . خروج از برنامه را کنسل کنید</string>
+    <string name="permissions_setting">تنظیمات</string>
+    <string name="person_model">مرکز شخصی</string>
+    <string name="radio_10m">10دقیقه</string>
+    <string name="radio_15m">15دقیقه</string>
+    <string name="radio_1h">1ساعت</string>
+    <string name="radio_20m">20دقیقه</string>
+    <string name="radio_2h">2ساعت</string>
+    <string name="radio_30m">30دقیقه</string>
+    <string name="radio_40m">40دقیقه</string>
+    <string name="radio_5m">5دقیقه</string>
+    <string name="select_break_time">لطفاً هر زمان استراحت را انتخاب کنید</string>
+    <string name="select_img">تصویر را انتخاب کنید</string>
+    <string name="select_use_time">لطفاً هر زمان مصرف را انتخاب کنید</string>
+    <string name="setting_time">استفاده‌شده به مدت %2$d/استراحت به مدت %1$d</string>
+    <string name="sign_out">Kids Zone خارج شوید</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
+    <string name="system_setting">تنظیمات سیستم</string>
+    <string name="take_photo">عکس گرفتن</string>
+    <string name="time_agreement">موافقت‌نامه زمانی</string>
+    <string name="time_up">زمان رو به اتمام است</string>
+    <string name="top_five">برنامه دارای بیشترین میزان استفاده</string>
+    <string name="top_five_title">برنامه‌های اغلب استفاده‌شده در هفته گذشته</string>
+    <string name="use_of_day">زمان مصرف روزانه</string>
+    <string name="use_of_day_title">زمان مصرف روزانه هفته قبل</string>
+    <string name="user_birth_hint">لطفاً تاریخ تولد کودک را انتخاب کنید</string>
+    <string name="user_icon">لطفاً یک عکس انتخاب کنید</string>
+    <string name="user_name">نام</string>
+    <string name="user_name_hint">لطفاً نام کودک را وارد کنید</string>
+    <string name="user_name_not_null">نام کاربری نمی تواند خالی باشد</string>
+    <string name="volume">میزان صدا</string>
+    <string name="wallpaper">کاغذدیواری‌ها</string>
+    <string name="welcome">به  Kids Zone خوش آمدید\n لطفاً راهنمای راه‌اندازی زیر را تکمیل کنید</string>
+    <string name="wifi">WIFI</string>
+</resources>

@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">退出\n Kids Zone</string>
+    <string name="sign_out">退出Kids Zone</string>
+    <string name="enter_parent">家长模式</string>
+
+    <string name="person_model">个人中心</string>
+    <string name="parent_manage">家长控制</string>
+    <string name="use_of_day">每日使用时间</string>
+    <string name="top_five">最常用应用程序</string>
+    <string name="take_photo">拍照</string>
+    <string name="gallery">图库</string>
+
+    <string name="change_pwd">修改密码</string>
+    <string name="time_agreement">时间约定</string>
+    <string name="flowmeter">流量限制</string>
+    <string name="app_manage">应用管理</string>
+    <string name="app_market">应用市场</string>
+    <string name="system_setting">系统设置</string>
+    <string name="eye_model">护眼模式</string>
+    <string name="brightness">亮度</string>
+    <string name="volume">音量</string>
+    <string name="wallpaper">壁纸</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">关于</string>
+    <string name="select_use_time">请选择每次使用时间</string>
+    <string name="select_break_time">请选择每次休息时长</string>
+    <string name="radio_5m">5分钟</string>
+    <string name="radio_10m">10分钟</string>
+    <string name="radio_15m">15分钟</string>
+    <string name="radio_20m">20分钟</string>
+    <string name="radio_30m">30分钟</string>
+    <string name="radio_40m">40分钟</string>
+    <string name="radio_1h">1小时</string>
+    <string name="radio_2h">2小时</string>
+    <string name="setting_time">使用%1$d分钟/休息%2$d分钟</string>
+
+    <string name="welcome">欢迎使用Kids Zone \n请完成以下设置向导</string>
+    <string name="user_icon">选择照片</string>
+    <string name="birth">生日</string>
+    <string name="user_name">姓名</string>
+    <string name="user_name_hint">输入孩子的名字</string>
+    <string name="user_birth_hint">选择孩子的生日</string>
+    <string name="app_filter">家长模式 - 应用管理</string>
+
+    <string name="input_password">请输入4位密码</string>
+    <string name="again_input_password">请再次输入密码</string>
+    <string name="password_success">密码设置成功</string>
+    <string name="password_error">两次输入不一致，请重新输入</string>
+    <string name="input_answer">请输入正确的答案</string>
+    <string name="answer_error">答案错误请重新输入</string>
+    <string name="forget_password">忘记密码？</string>
+    <!--<string name="new_password">您的密码为%1$s</string>-->
+    <string name="new_password"><![CDATA[您的密码为<font color="#00ff1212">%1$s</font>]]></string>
+    <string name="password_error_input">密码错误请重新输入</string>
+
+    <string name="use_of_day_title">最近一周每日使用时间</string>
+    <string name="top_five_title">最近一周常用应用程序</string>
+
+    <string name="app_info">"2009-2016 Transsion Holdings.\n 保留所有权利"</string>
+
+    <string name="enter_parent_mode">进入家长模式</string>
+    <string name="add_use_time">增加使用时间</string>
+
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="overplus_time">休息剩余时间&#160;&#160;%1$s</string>
+    <string name="multimedia_volume">多媒体音量</string>
+    <!--<string name="guide_choose_format">请选择允许孩子使用的应用(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[请选择允许孩子使用的应用（<font color="#ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">请小朋友不要这样躺着玩哦！</string>
+    <string name="time_up">时间用完了</string>
+    <string name="user_name_not_null">用户名不能为空</string>
+    <string name="exit_dialog_hint">请确定是否要退出Kids Zone</string>
+    <string name="select_img">选择图片</string>
+    <string name="mobile_data_close">关闭数据连接</string>
+    <string name="column_time">时间(h)</string>
+    <string name="column_date">日期</string>
+    <string name="column_app">应用</string>
+    <string name="charge_hint">小朋友设备在充电，请休息一会</string>
+    <string name="permissions_msg">当前应用缺少必要权限，请至&#160;设置&#160;-&#160;应用&#160;-&#160;权限&#160;中授予权限;取消则退出应用</string>
+    <string name="permissions_help">帮助</string>
+    <string name="permissions_setting">设置</string>
+    <string name="no_sim">无SIM卡</string>
+    <string name="airplane_mode">已开启飞行模式</string>
+    <string name="charge_full_hint">充电已完成！</string>
+
+    <string name="exit_dialog_title">退出</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">正在充电&#160;%1$s%%</string>
+    <string name="charge_protection">充电保护</string>
+    <string name="exit_charing">退出充电保护</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

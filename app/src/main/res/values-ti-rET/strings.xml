@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Kids Zone \n ዕፆዉ</string>
+    <string name="sign_out">Kids Zone ዕፆዉ</string>
+    <string name="enter_parent">ናይ ስድራ ሞድ</string>
+
+    <string name="person_model">ናይ ዉልቀ ማእኸል</string>
+    <string name="parent_manage">ስድራ ምቁፅፃር</string>
+    <string name="use_of_day">ዕለታዊ ናይ ምጥቃም ሰዓት</string>
+    <string name="top_five">መብዛሕቲኡ ግዜ ብተደጋጋሚ ኣብ ጥቕሚ ዝወዓለ ዓዉደሞያ</string>
+    <string name="take_photo">ምልዓል ፎቶ</string>
+    <string name="gallery">መኽዘን ምስሊ</string>
+
+    <string name="change_pwd">መሕለፊ ቃል ቐይር</string>
+    <string name="time_agreement">ናይ ሰዓት ስምምዕነት</string>
+    <string name="flowmeter">ናይ ዳታ ገደብ</string>
+    <string name="app_manage">ዓዉደሞያ ምምሕዳር</string>
+    <string name="app_market">ናይ ዓዉደሞያ ዕዳጋ</string>
+    <string name="system_setting">ናይ ሲስተም ስንድኦታት</string>
+    <string name="eye_model">ናይ ዓይኒ-እንክብካቤ ሞድ</string>
+    <string name="brightness">ብርሃናማነት</string>
+    <string name="volume">መጠን ድምፂ</string>
+    <string name="wallpaper">መንደቕ ወረቐት</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">ብዛዕባ</string>
+    <string name="select_use_time">በይዘኦም ሕድሕድ ናይ ምጥቃም ሰዓት ይምረፁ</string>
+    <string name="select_break_time">በይዘኦም ሕድሕድ ናይ ዕረፍቲ ሰዓት ይምረፁ</string>
+    <string name="radio_5m">5ደቓይቕ</string>
+    <string name="radio_10m">10ደቓይቕ</string>
+    <string name="radio_15m">15ደቓይቕ</string>
+    <string name="radio_20m">20ደቓይቕ</string>
+    <string name="radio_30m">30ደቓይቕ</string>
+    <string name="radio_40m">40ደቓይቕ</string>
+    <string name="radio_1h">1ሰዓት</string>
+    <string name="radio_2h">2ሰዓታት</string>
+    <string name="setting_time">ን %1$d ደቓይቕ ኣብ ጥቕሚ ዉዒሉ/ን %2$d ደቓይቕ ኣዕሪፉ</string>
+
+    <string name="welcome">ናብ Kids Zone እንኳዕ ደሓን መፃእኹም\n በይዘኦም ዝስዕብ ምድላዉ መምርሒ ይዛዝም</string>
+    <string name="user_icon">በይዘኦም ፎቶ ይምረፁ</string>
+    <string name="birth">ልደት</string>
+    <string name="user_name">ሽም</string>
+    <string name="user_name_hint">በይዘኦም ናይቲ ህፃን ሽም የእትዉ</string>
+    <string name="user_birth_hint">በይዘኦም ናይቲ ህፃን ናይ ትዉልዲ ዕለት የእትዉ</string>
+    <string name="app_filter">ናይ ስድራ ሞድ- ዓዉደሞያ ምምሕዳር</string>
+
+    <string name="input_password">በይዘኦም 4-ቢት መሕለፊ ቃል የእትዉ</string>
+    <string name="again_input_password">በይዘኦም መሕለፊ ቃል የረጋግፁ</string>
+    <string name="password_success">መሕለፊ ቃል ብዕዉት ተዳልዩ</string>
+    <string name="password_error">ዘእተይዎም ኽልተ ሲም ኣይመሳሰሉን፣ በይዘኦም መሊሶም የእትዉ</string>
+    <string name="input_answer">በይዘኦም ትክክለኛ መልሲ የእትዉ</string>
+    <string name="answer_error">ዝተሰሓሓተ መልሲ፣ በይዘኦም መሊሶም የእትዉ</string>
+    <string name="forget_password">መሕለፊ ቃል ረሲዖም?</string>
+    <!--<string name="new_password">መሕለፊ ቃልካ %1$s እዩ</string>-->
+    <string name="new_password"><![CDATA[መሕለፊ ቃልካ <font color="#00ff1212">%1$s</font> እዩ]]></string>
+    <string name="password_error_input">ናይ መሕለፊ ቃል ስሕተት፣ በይዘኦም መሊሶም የእትዉ</string>
+    <string name="use_of_day_title">ዝሓለፈ ሰሙን ዕለታዊ ናይ ምጥቃም ሰዓት</string>
+    <string name="top_five_title">ዝሓለፈ ሰሙን ብተደጋጋሚ ኣብ ጥቕሚ ዝወዓሉ ዓዉደሞያታት</string>
+
+    <string name="enter_parent_mode">ናይ ስድራ ሞድ ኣእትዉ</string>
+    <string name="add_use_time">ናይ ምጥቃም ሰዓት ወስኽ</string>
+
+    <string name="ok">ሕራይ</string>
+    <string name="cancel">ሰርዝ</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n ኹሎም መሰላት ተሓሊዎም"</string>
+    <string name="multimedia_volume">ናይ ማልቲሚደያ መጠን ድምፂ</string>
+    <!--<string name="guide_choose_format">በይዘኦም ህፃዉንቲ ንክጥቀምሎም ዝፍቀዱ ዓዉደሞያታት ይምረፁ(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[በይዘኦም ህፃዉንቲ ንክጥቀምሎም ዝፍቀዱ ዓዉደሞያታት ይምረፁ（<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">ሀይ ንኡሽተይ ዓርክና፣ በይዘኦም  ደቂሱ እንሃለየ ኣይፃዉቱ!</string>
+    <string name="time_up">ግዜ አብ ምዉዳእ እዩ</string>
+    <string name="user_name_not_null">ናይ ተጠቃሚ ሽም ባዲ ክኸዉን የብሉን</string>
+    <string name="overplus_time">ዝተረፈ ናይ ምድላዉ ስዓት&#160;&#160;%1$s</string>
+    <string name="exit_dialog_hint">በይዘኦም Kids Zone ንምዕፃዉ የረጋግፁ</string>
+    <string name="select_img">ምስሊ ምረፅ</string>
+    <string name="mobile_data_close">ናይ ዳታ ርክብ ዕፀዉ</string>
+    <string name="column_time">ሰዓት(h)</string>
+    <string name="column_date">ዕለት</string>
+    <string name="column_app">ዓዉደሞያ</string>
+    <string name="charge_hint">ዝተኸበርኻ ህፃን፣ መሳርሒ ሕጂ ቻርጅ ኣብ ምግባር እዩ፣ በይዘኻ ዓሪፍኻ ተቐመጥ</string>
+    <string name="permissions_msg">ናይ ሕጂ ዓዉደሞያ ሕፅረት ተጠቐምቲ ፍቓዳት ኣለዉዎ፣ በይዘኦም ናብ &#160;ስንድኦታት&#160;-&#160;ዓዉደሞያታት&#160;-&#160;ፍቓዳት&#160; ይኽዱ; ንዓዉደሞያታት ፍቓድ ንምሃብ;ዓዉደሞያ ንምዉፃእ ሰርዝ</string>
+    <string name="permissions_help">ሓገዝ</string>
+    <string name="permissions_setting">ስንድኦታት</string>
+    <string name="no_sim">ሲም የለን፡፡</string>
+    <string name="airplane_mode">"ናይ በረራ ሞድ ተወሊዑ እዩ ዘሎ "</string>
+    <string name="charge_full_hint">ቻርጅ ምግባር ተዛዚሙ</string>
+
+    <string name="exit_dialog_title">ኣቁም</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">ቻርጅ ኣብ ምግባር &#160;%1$s%%</string>
+    <string name="exit_charing">"ቻርጅ ምግባር ምክልኻል የዉፅኡ "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

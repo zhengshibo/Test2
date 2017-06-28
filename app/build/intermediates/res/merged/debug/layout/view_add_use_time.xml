@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.view.AddUseTimeDialog xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shape_add_use_time"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/add_time_margin_top"
+        android:layout_marginTop="@dimen/add_time_title_margin_top"
+        android:paddingStart="@dimen/add_time_padding_start"
+        android:text="@string/add_use_time"
+        android:textColor="@color/black_333"
+        android:textSize="@dimen/txt_size_24" />
+
+    <ListView
+        android:id="@+id/v_add_use_time_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@null"
+        android:dividerHeight="0dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/add_time_buttom_marginbottom"
+        android:gravity="end"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/v_add_use_time_cancel"
+            style="@style/btn_dialog"
+            android:layout_marginEnd="@dimen/add_time_cancel_marginend"
+            android:text="@string/cancel" />
+
+        <Button
+            android:id="@+id/v_add_use_time_ok"
+            style="@style/btn_dialog"
+            android:layout_marginEnd="@dimen/add_time_ok_margin_end"
+            android:text="@string/ok" />
+
+    </LinearLayout>
+
+</com.dollyphin.kidszone.view.AddUseTimeDialog>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.guide.GuideAppChooseView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/choose_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="@dimen/guide_app_choose_title_width"
+        style="@style/GuideChooseTextStyle"
+        android:layout_marginTop="@dimen/guide_app_title_top"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true" />
+
+    <com.dollyphin.kidszone.guide.AppChooseRecyclerView
+        android:id="@+id/app_choose_recyclerview"
+        android:background="@drawable/guide_choose_bg"
+        android:layout_marginTop="@dimen/guide_app_viewpager_top"
+        android:layout_marginStart="@dimen/guide_app_viewpager_margin"
+        android:layout_marginEnd="@dimen/guide_app_viewpager_margin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</com.dollyphin.kidszone.guide.GuideAppChooseView>

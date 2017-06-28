@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Toka katika \n kids Zone</string>
+    <string name="sign_out">Toka katika kids Zone</string>
+    <string name="enter_parent">Hali-tumizi ya mzazi</string>
+
+    <string name="person_model">Kituo cha kibinafsi</string>
+    <string name="parent_manage">Udhibiti wa mzazi</string>
+    <string name="use_of_day">Matumizi ya kila siku ya muda</string>
+    <string name="top_five">Programu zinazotumika sana</string>
+    <string name="take_photo">"Piga picha"</string>
+    <string name="gallery">"kichanja"</string>
+
+    <string name="change_pwd">Badili nywila</string>
+    <string name="time_agreement">Mkataba wa muda</string>
+    <string name="flowmeter">Kumudu data</string>
+    <string name="app_manage">Kisimamizi cha programu</string>
+    <string name="app_market">Soko la programu</string>
+    <string name="system_setting">Mipangiliyo ya mfumo</string>
+    <string name="eye_model">Hali ya kujali jicho</string>
+    <string name="brightness">"Ung'avu"</string>
+    <string name="volume">Sauti</string>
+    <string name="wallpaper">Bamba ukuta</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">Kuhusu</string>
+    <string name="select_use_time">Tafadhali teua kila muda wa matumizi</string>
+    <string name="select_break_time">Tafadhali teua kila muda wa kuweka upya matumizi</string>
+    <string name="radio_5m">5"Dakika"</string>
+    <string name="radio_10m">10"Dakika"</string>
+    <string name="radio_15m">15"Dakika"</string>
+    <string name="radio_20m">20"Dakika"</string>
+    <string name="radio_30m">30"Dakika"</string>
+    <string name="radio_40m">40"Dakika"</string>
+    <string name="radio_1h">1"saa"</string>
+    <string name="radio_2h">2"saa"</string>
+    <string name="setting_time">Imetumika kwa dakika %1$d /Muda uliyo bakia %2$d</string>
+
+    <string name="welcome">Karibu katika Kids Zone \n Tafadhali kamilisha usanidi wa muongozo ufuatao</string>
+    <string name="user_icon">Tafadhali teua picha</string>
+    <string name="birth">"Siku ya kuzaliwa"</string>
+    <string name="user_name">jina</string>
+    <string name="user_name_hint">Tafadhali ingiza jina la mtoto</string>
+    <string name="user_birth_hint">Tafadhali teua siku ya kuzaliwa ya mtoto</string>
+    <string name="app_filter">Hali-tumizi ya mzazi- Kisimamizi cha programu</string>
+
+    <string name="input_password">Tafadahali ingiza nywila yenye Baiti4</string>
+    <string name="again_input_password">Tafadhali thibitisha nywila</string>
+    <string name="password_success">Nywila imefanikiwa kusetiwa</string>
+    <string name="password_error">Nywila mbili ulizo ingiza haziaambatani , tafadhali ingiza tena.</string>
+    <string name="input_answer">Tafadhali andika jibu sahihi</string>
+    <string name="answer_error">Jibu sio sahihi ,tafadhali andika tena</string>
+    <string name="forget_password">Je, umesahau nywila?</string>
+    <!--<string name="new_password">Nywila yako ni %1$s</string>-->
+    <string name="new_password"><![CDATA[Nywila yako ni<font color="#00ff1212">%1$s</font>]]></string>
+    <string name="password_error_input">Hitilafu ya nywila tafadhali weka tena</string>
+
+    <string name="use_of_day_title">Matumizi ya kila siku ya wiki iliyopita</string>
+    <string name="top_five_title">Programu zilizo tumika sana wiki iliyopita</string>
+
+    <string name="enter_parent_mode">Ingia kwenye hali-tumizi ya mzazi</string>
+    <string name="add_use_time">Ongeza muda wa matumizi</string>
+
+    <string name="ok">SAWA</string>
+    <string name="cancel">KATISHA</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n Haki zote zimehifadhiwa"</string>
+    <string name="multimedia_volume">Sauti ya midia anuai</string>
+    <!--<string name="guide_choose_format">Tafadhali chagua programu iliyokubalika kutumiwa na watoto(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[Tafadhali chagua programu iliyokubalika kutumiwa na watoto（<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">Jambo mwana, tafadhali usicheze ukiwa umelala chini!</string>
+    <string name="time_up">Muda unaisha</string>
+    <string name="user_name_not_null">Jina la mtumizi haliwezi kuwa tupu</string>
+    <string name="overplus_time">Muda wa mapumziko uliosalia &#160;&#160;%1$s</string>
+    <string name="exit_dialog_hint">Tafadhali dhibitisha kama utatoka kwenye Kids Zone</string>
+    <string name="select_img">Chagua picha</string>
+    <string name="mobile_data_close">Funga muunganisho wa data</string>
+    <string name="column_time">Muda(h)</string>
+    <string name="column_date">Guyyaa</string>
+    <string name="column_app">Tumia</string>
+    <string name="charge_hint">Mpendwa mtoto, kifaa kinachaji kwa sasa, tafadhali pumzika</string>
+    <string name="permissions_msg">Programu iliopo sasa inakosa ruhusa muhimu, tafadhali nenda kwa &#160;Mipangilio&#160;-&#160;Programu&#160;-&#160;Ruhusa&#160;ilikuipa programu ruhusa; Ghairi iliutoke kwenye programu</string>
+    <string name="permissions_help">Usaidizi</string>
+    <string name="permissions_setting">Mipangilio</string>
+    <string name="no_sim">Hakuna SIM</string>
+    <string name="airplane_mode">"\"Hali -tumiizi ya ndege imewashwa\" "</string>
+    <string name="charge_full_hint">Kuchaji kumekamilika</string>
+
+    <string name="exit_dialog_title">Toka</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">Inachaji &#160;%1$s%%</string>
+    <string name="exit_charing">"Toka kwenye kilinzi cha chaji "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

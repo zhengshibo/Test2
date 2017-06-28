@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Kids Zone से एग्जिट करें</string>
+    <string name="sign_out">Kids Zone से एग्जिट करें</string>
+    <string name="enter_parent">अभिभावक मोड</string>
+
+    <string name="person_model">व्यक्तिगत केंद्र</string>
+    <string name="parent_manage">अभिभावक नियंत्रण</string>
+    <string name="use_of_day">समय-समय पर प्रयुक्त</string>
+    <string name="top_five">बार-बार प्रयुक्त ऐप्लिकेशन</string>
+    <string name="take_photo">कैमरा कुंजी</string>
+    <string name="gallery">"गैलरी"</string>
+
+    <string name="change_pwd">"पासवर्ड बदलें"</string>
+    <string name="time_agreement">समय अनुबंध</string>
+    <string name="flowmeter">"डेटा सीमा"</string>
+    <string name="app_manage">ऐप्लिकेशन मैनेजमेंट</string>
+    <string name="app_market">ऐप स्टोर</string>
+    <string name="system_setting">"सिस्टम सेटिंग"</string>
+    <string name="eye_model">आँख-देखरेख मोड</string>
+    <string name="brightness">"स्क्रीन की रोशनी"</string>
+    <string name="volume">"आवाज़"</string>
+    <string name="wallpaper">"वॉलपेपर"</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">"इस बारे में"</string>
+    <string name="select_use_time">कृपया सेशन उपयोग समय चुनें</string>
+    <string name="select_break_time">कृपया सेशन का शेष समय चुनें</string>
+    <string name="radio_5m">"5 मिनट"</string>
+    <string name="radio_10m">"10 मिनट"</string>
+    <string name="radio_15m">"15 मिनट"</string>
+    <string name="radio_20m">"20 मिनट"</string>
+    <string name="radio_30m">"30 मिनट"</string>
+    <string name="radio_40m">"40 मिनट"</string>
+    <string name="radio_1h">"1 घंटा"</string>
+    <string name="radio_2h">"2 घंटे"</string>
+    <string name="setting_time">उपयोग %1$d मिनट / शेष %2$d मिनट</string>
+
+    <string name="welcome"> Kids Zone में स्वागत है \nकृपया निम्न सेटिंग्स कॉन्फ़िगर करें</string>
+    <string name="user_icon">इमेज चुनें</string>
+    <string name="birth">"जन्‍मदिन"</string>
+    <string name="user_name">"नाम"</string>
+    <string name="user_name_hint">कृपया बच्चे का नाम डालें</string>
+    <string name="user_birth_hint">कृपया बच्चे की जन्मतिथि डालें</string>
+    <string name="app_filter">अभिभावक मोड-ऐप्लिकेशन मैनेजमेंट</string>
+
+    <string name="input_password">कृपया 4-अंकों का पासवर्ड डालें</string>
+    <string name="again_input_password">कृपया पासवर्ड दोबारा डालें</string>
+    <string name="password_success">पासवर्ड सफलतापूर्वक सेट कर दिया गया है</string>
+    <string name="password_error">प्रविष्टि मेल नहीं खा रही हैं, कृपया दोबारा प्रयास करें|</string>
+    <string name="input_answer">कृपया सही उत्तर प्रविष्ट करें</string>
+    <string name="answer_error">जवाब में त्रुटी, कृपया दोबारा डालें</string>
+    <string name="forget_password">पासवर्ड भूल गए हैं?</string>
+    <!--<string name="new_password">आपका पासवर्ड %1$s है</string>-->
+    <string name="new_password"><![CDATA[आपका पासवर्ड <font color="#00ff1212">%1$s</font> है]]></string>
+    <string name="password_error_input">पासवर्ड त्रुटी, कृपया दोबारा डालें</string>
+    <string name="use_of_day_title">पिछले सप्ताह का दैनिक उपयोग समय</string>
+    <string name="top_five_title">पिछले सप्ताह की पसंदीदा ऐप्स</string>
+
+    <string name="app_info">"2009-2016 Transsion Holdings.\n सर्वाधिकार संरक्षित"</string>
+
+    <string name="enter_parent_mode">अभिभावक मोड में जाएँ</string>
+    <string name="add_use_time">उपयोग समय बढ़ाएं</string>
+
+    <string name="ok">"सेट करें"</string>
+    <string name="cancel">"अभी नहीं"</string>
+    <string name="overplus_time">बचा हुआ शेष समय &#160;&#160;%1$s</string>
+    <string name="multimedia_volume">मल्टीमीडिया वॉल्यूम</string>
+    <!--<string name="guide_choose_format">कृपया अपने बच्चे द्वारा एक्सेस करने के लिए ऐप चुनें (%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[कृपया अपने बच्चे द्वारा एक्सेस करने के लिए ऐप चुनें （<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">हे छोटे उस्ताद, लेटते समय मत खेलो!</string>
+    <string name="time_up">टाइम खत्म हो रहा है</string>
+    <string name="user_name_not_null">प्रयोक्ता-नाम रिक्त नहीं हो सकता</string>
+    <string name="exit_dialog_hint">कृपया पुष्टि करें कि Kids Zone जोन से एग्जिट किया जाए या नहीं</string>
+    <string name="select_img">इमेज चुनें</string>
+    <string name="column_time">समय(h)</string>
+    <string name="column_date">दिनांक</string>
+    <string name="column_app">ऐप्स</string>
+    <string name="charge_hint">प्रिय बच्चे, उपकरण अभी चार्ज हो रहा है, कृपया आराम करो</string>
+    <string name="permissions_msg">वर्तमान ऐप में आवश्यक स्वीकृतियाँ नहीं है, ऐप को स्वीकृति देने के लिए कृपया &#160;सेटिंग्स&#160;-&#160;ऐप्स&#160;-&#160;स्वीकृतियाँ&#160; में जाएँ; एग्जिट करने के लिए रद्द करें</string>
+    <string name="permissions_help">सहायता</string>
+    <string name="permissions_setting">सेटिंग</string>
+    <string name="mobile_data_close">डेटा कनेक्शन ऑफ करें</string>
+    <string name="no_sim">"कोई SIM नहीं "</string>
+    <string name="airplane_mode">"\"हवाई जहाज मोड चालू है\" "</string>
+
+    <string name="exit_dialog_title">छोड़ें</string>
+    <string name="charge_full_hint">चार्ज पूर्ण हुआ</string>
+
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">चार्ज किया जा रहा है &#160;%1$s%%</string>
+    <string name="exit_charing">"चार्जिंग प्रोटेक्शन से एग्जिट करें "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

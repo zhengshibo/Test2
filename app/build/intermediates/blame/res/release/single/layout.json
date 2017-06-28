@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_password.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_password.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\guide_control_panel.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\guide_control_panel.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_time_out_lock_screen.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_time_out_lock_screen.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_item_switch.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\setting_item_switch.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\wallpaper_choose_item.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\wallpaper_choose_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\kids_zone_home.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\kids_zone_home.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_other_lock_screen.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_other_lock_screen.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_wallpaper_item.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\setting_wallpaper_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_item_right_arrow.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\setting_item_right_arrow.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\wallpaper_home.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\wallpaper_home.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\guide_choose_item.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\guide_choose_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_charge_lock_screen.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_charge_lock_screen.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\control_panel_button.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\control_panel_button.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\guide_application.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\guide_application.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\application.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\application.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\information.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\information.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\guide_main.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\guide_main.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\parental_control_mode.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\parental_control_mode.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_seekbar.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\setting_seekbar.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\page_indicator_marker.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\page_indicator_marker.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_item_common.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\setting_item_common.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\app_filter.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\app_filter.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\control_text.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\control_text.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_limit_time.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_limit_time.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\popup_list_data.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\popup_list_data.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\welcome.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\welcome.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\choose_item.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\choose_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_stats_date.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_stats_date.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialog_exit.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\workspace_screen.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\workspace_screen.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_item_model.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\setting_item_model.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\guide_app_choose.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\guide_app_choose.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\kids_system_ui.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\kids_system_ui.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_num_keyboard.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\item_num_keyboard.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_choose_img.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\activity_choose_img.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_add_use_time.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_add_use_time.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\status_bar.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\status_bar.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_setting_wallpaer.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_setting_wallpaer.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_check_item.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_check_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_setting_txt.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_setting_txt.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_about.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_about.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\page_indicator.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\page_indicator.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_background.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\activity_background.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_statscs.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_statscs.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\app_filter_item.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\app_filter_item.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\setting_header.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\setting_header.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\view_common_lock_screen.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout\\view_common_lock_screen.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    }
+]

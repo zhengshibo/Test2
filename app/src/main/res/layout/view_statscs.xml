@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.dollyphin.kidszone.view.AppColumnView
+        android:id="@+id/passwordView"
+        app:appColumnPaddingButtom="@dimen/column_paddingbuttom"
+        app:appColumnPaddingLeft="@dimen/column_paddingleft"
+        app:appColumnPaddingTop="@dimen/column_paddingtop"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/column_height"/>
+</RelativeLayout>

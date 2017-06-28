@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.view.SettingCommonItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:clickable="true"
+    android:paddingEnd="@dimen/parent_item_padding"
+    android:paddingStart="@dimen/parent_item_padding">
+
+    <TextView
+        android:id="@+id/setting_common_left"
+        android:layout_width="wrap_content"
+        android:textSize="@dimen/parent_list_text_size"
+        android:textColor="@color/black_333"
+        android:layout_height="@dimen/setting_item_height"
+        android:layout_alignParentStart="true"
+        android:gravity="center_vertical" />
+
+    <RelativeLayout
+        android:id="@+id/setting_common_right"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:minHeight="@dimen/setting_item_height" />
+
+    <View
+        android:id="@+id/setting_common_underline"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/divider_color" />
+
+</com.dollyphin.kidszone.view.SettingCommonItemView>

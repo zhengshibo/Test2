@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<SeekBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="@dimen/progressbar_width"
+    android:max="255"
+    android:thumb="@drawable/select_seekbar"
+    android:progressDrawable="@drawable/seekbar_progress"
+    android:progress="50" />

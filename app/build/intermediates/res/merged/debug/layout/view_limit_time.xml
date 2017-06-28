@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.view.LimitTimeView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="bottom"
+    android:orientation="vertical">
+
+    <TextView
+        style="@style/limit_txt"
+        android:text="@string/select_use_time" />
+
+    <RadioGroup
+        android:id="@+id/use_time"
+        style="@style/limit_group">
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="20"
+            android:text="@string/radio_20m" />
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="40"
+            android:text="@string/radio_40m" />
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="60"
+            android:text="@string/radio_1h" />
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="120"
+            android:text="@string/radio_2h" />
+
+    </RadioGroup>
+
+    <TextView
+        style="@style/limit_txt"
+        android:text="@string/select_break_time" />
+
+    <RadioGroup
+        android:id="@+id/break_time"
+        style="@style/limit_group">
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="15"
+            android:text="@string/radio_15m" />
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="30"
+            android:text="@string/radio_30m" />
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="60"
+            android:text="@string/radio_1h" />
+
+        <RadioButton
+            style="@style/radioItem"
+            android:tag="120"
+            android:text="@string/radio_2h" />
+    </RadioGroup>
+
+</com.dollyphin.kidszone.view.LimitTimeView>

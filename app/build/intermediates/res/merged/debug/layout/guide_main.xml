@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.guide.Guide xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#77000000">
+
+    <com.dollyphin.kidszone.view.KidsZoneDialogView
+        android:id="@+id/pager_center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.dollyphin.kidszone.guide.GuidePagerView
+        android:id="@+id/guide_pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</com.dollyphin.kidszone.guide.Guide>

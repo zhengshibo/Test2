@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/kids_system_ui_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/choose_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/shape_add_use_time"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/choose_img_padding"
+            android:paddingTop="@dimen/dp_20"
+            android:text="@string/select_img"
+            android:textColor="@color/black"
+            android:textSize="@dimen/txt_size_28"
+            android:textStyle="bold" />
+
+        <ListView
+            android:id="@+id/choose_header"
+            android:layout_width="@dimen/choose_width"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:divider="@color/grep_e1e"
+            android:dividerHeight="1dp"
+            android:paddingEnd="@dimen/choose_img_padding"
+            android:paddingStart="@dimen/choose_img_padding" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name"> Kids Zone</string>
+    <string name="exit_kidszone">الخروج من منطقة\n  Kids Zone</string>
+    <string name="sign_out">الخروج من Kids Zone</string>
+    <string name="enter_parent">وضع الوالدين</string>
+
+    <string name="person_model">المركز الشخصي</string>
+    <string name="parent_manage">تحكم الوالدين</string>
+    <string name="use_of_day">وقت الإستخدام اليومي</string>
+    <string name="top_five">أكثر التطبيقات المتكرر إ ستخدامها</string>
+    <string name="take_photo">"التقاط صورة"</string>
+    <string name="gallery">المعرض</string>
+
+    <string name="change_pwd">تغيير كلمة المرور</string>
+    <string name="time_agreement">إتفاقية الوقت</string>
+    <string name="flowmeter">حد البيانات</string>
+    <string name="app_manage">إدارة التطبيقات</string>
+    <string name="app_market">سوق التطبيقات</string>
+    <string name="system_setting">إعدادات النظام</string>
+    <string name="eye_model">وضع حماية العين</string>
+    <string name="brightness">السطوع</string>
+    <string name="volume">مستوى الصوت</string>
+    <string name="wallpaper">الخلفية</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">حول</string>
+    <string name="select_use_time">يرجى تحديد وقت كل إستخدام</string>
+    <string name="select_break_time">يرجى تحديد وقت كل راحة</string>
+    <string name="radio_5m">5دقائق</string>
+    <string name="radio_10m">10دقائق</string>
+    <string name="radio_15m">15دقائق</string>
+    <string name="radio_20m">20دقيقة</string>
+    <string name="radio_30m">30دقائق</string>
+    <string name="radio_40m">40دقيقة</string>
+    <string name="radio_1h">ساعة واحدة</string>
+    <string name="radio_2h">ساعتان</string>
+    <string name="setting_time">الاستخدام لمدة %1$d دقيقة/ الراحة لمدة %2$d دقيقة</string>
+
+    <string name="welcome">مرحبًا باستخدمك Kids Zone\n، يرجى استكمال إرشادات الإعداد التالية</string>
+    <string name="user_icon">يرجى تحديد صورة</string>
+    <string name="birth">عيد الميلاد</string>
+    <string name="user_name">الاسم</string>
+    <string name="user_name_hint">يرجى إدخال اسم الطفل</string>
+    <string name="user_birth_hint">يرجى تحديد عيد ميلاد الطفل</string>
+    <string name="app_filter">وضع الوالدين - إدارة التطبيقات</string>
+
+    <string name="input_password">يرجى إدخال كلمة المرور المكونة من 4 أحرف</string>
+    <string name="again_input_password">يرجى تأكيد كلمة المرور</string>
+    <string name="password_success">تم تعيين كلمة المرور بنجاح</string>
+    <string name="password_error">كلمتي المرور التي قمت بإدخالهما غير متطابقتين، يرجى الإدخال مرة أخرى .</string>
+    <string name="input_answer">يرجى إدخال الإجابة الصحيحة</string>
+    <string name="answer_error">الإجابة خاطئة ، يرجى الإدخال مرة أخرى</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <!--<string name="new_password">كلمة المرور الخاصة بك هي %1$s</string>-->
+    <string name="new_password"><![CDATA[كلمة المرور الخاصة بك هي<font color="#00ff1212">%1$s</font>]]></string>
+    <string name="password_error_input">كلمة المرور خاطئة، 0يرجى إعادة الإدخال</string>
+    <string name="use_of_day_title">وقت الإستخدام اليومي للأسبوع الماضي</string>
+    <string name="top_five_title">الإستخدام المتكرر لتطبيقات الأسبوع الماضي</string>
+
+    <string name="enter_parent_mode">أدخل وضع الوالدين</string>
+    <string name="add_use_time">إضافة وقت الإستخدام</string>
+
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء الأمر</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n جميع الحقوق محفوظة"</string>
+    <string name="multimedia_volume">مستوى صوت الوسائط المتعددة</string>
+    <!--<string name="guide_choose_format">يرجى تحديد التطبيقات التي يسمح للأطفال استخدمها(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[يرجى تحديد التطبيقات التي يسمح للأطفال استخدمها（<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">يا رفيقي الصغير، يرجى عدم اللعب أثناء الإستلقاء على الأرض!</string>
+    <string name="time_up">الوقت ينفد</string>
+    <string name="user_name_not_null">لا يمكن أن يكون اسم المستخدم فارغا</string>
+    <string name="overplus_time">وقت التعيين المتبقي &#160;&#160;%1$s</string>
+    <string name="exit_dialog_hint">يرجى التأكد من الخروج من   Kids Zone</string>
+    <string name="select_img">تحديد صورة</string>
+    <string name="mobile_data_close">إيقاف اتصال البيانات</string>
+    <string name="column_time">الوقت (h)</string>
+    <string name="column_date">التاريخ</string>
+    <string name="column_app">الاستخدام</string>
+    <string name="charge_hint">عزيزي الطفل، جارٍ شحن الجهاز، يرجى الإنتظار</string>
+    <string name="permissions_msg">يحتاج التطبيق الحالي إلى أذونات هامة، يرجى الذهاب إلى &#160; الإعدادات&#160;-&#160; التطبيقات&#160;-&#160; الأذونات&#160; لمنح الإذن للتطبيق؛ اضغط على إلغاء للخروج من التطبيق</string>
+    <string name="permissions_help">المساعدة</string>
+    <string name="permissions_setting">الإعدادات</string>
+    <string name="no_sim">"لا توجد SIM "</string>
+    <string name="airplane_mode">"تم تشغيل وضع الطيران "</string>
+    <string name="charge_full_hint">اكتمل الشحن</string>
+
+    <string name="exit_dialog_title">الخروج</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">جاري الشحن &#160;%1$s%%</string>
+    <string name="exit_charing">الخروج الآمن من واجهة الشحن</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

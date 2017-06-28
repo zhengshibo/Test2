@@ -1,0 +1,410 @@
+[
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon_mask.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon_mask.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_launcher.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\ic_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_pageindicator_default.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\ic_pageindicator_default.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\add_time_checkded.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\add_time_checkded.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_next_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_next_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\other_lock_screnn.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\other_lock_screnn.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\parent_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\parent_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\status_bar.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\status_bar.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_progress.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_progress.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_about.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_choose_app_select.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_choose_app_select.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\system_ui_enter.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\system_ui_enter.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\keyboard.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\keyboard.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\user_photo_default.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\user_photo_default.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_back_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_back_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\usage_time_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\usage_time_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon_background.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon_background.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_background.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_background.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_choose_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_choose_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\pop_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\pop_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\charging_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\charging_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\charging_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\charging_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_12.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_12.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_back.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ic_pageindicator_current.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\ic_pageindicator_current.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\under_line_photo.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\under_line_photo.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_11.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_11.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_next_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_next_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_thumb.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_thumb.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\wifi_icon.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\wifi_icon.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_back_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_back_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\charging_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\charging_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_c.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_c.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\input.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\input.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\right_arrow.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\right_arrow.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\txt_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\txt_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\emergency_dialer.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\emergency_dialer.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\limit_time_uncheck.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\limit_time_uncheck.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\charging_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\charging_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\add_time_uncheck.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\add_time_uncheck.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\time_out_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\time_out_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\ok.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\ok.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\limit_time_checked.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\limit_time_checked.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\charging_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\charging_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\kids_system_ui_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\kids_system_ui_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\password.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\password.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\charging_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\charging_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\divider.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\divider.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\poor_form_full_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\poor_form_full_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_ok_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_ok_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_ok_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_ok_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\wallpaper_checked.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\wallpaper_checked.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\icon10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\icon10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\used_app_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\used_app_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\system_ui_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\system_ui_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\add_use_time.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\add_use_time.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\dollyphin_cry.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\dollyphin_cry.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\welcome_importance.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\welcome_importance.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\lock_screen_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\lock_screen_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\enter_parent_model.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\enter_parent_model.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\guide_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\guide_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\time_out_pwd_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\time_out_pwd_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\num_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-tvdpi\\num_8.png"
+    }
+]

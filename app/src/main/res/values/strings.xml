@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Exit \n Kids Zone</string>
+    <string name="sign_out">Exit Kids Zone</string>
+    <string name="enter_parent">Parent mode</string>
+
+    <string name="person_model">Personal center</string>
+    <string name="parent_manage">Parent control</string>
+    <string name="use_of_day">Daily usage time</string>
+    <string name="top_five">Most frequently used app</string>
+    <string name="take_photo">Capture</string>
+    <string name="gallery">Gallery</string>
+    <string-array name="check_photo">
+        <item>@string/take_photo</item>
+        <item>@string/gallery</item>
+    </string-array>
+
+    <string name="change_pwd">Change password</string>
+    <string name="time_agreement">Time agreement</string>
+    <string name="flowmeter">Data limitation</string>
+    <string name="app_manage">App management</string>
+    <string name="app_market">App market</string>
+    <string name="system_setting">System settings</string>
+    <string name="eye_model">Eye-care mode</string>
+    <string name="brightness">Brightness</string>
+    <string name="volume">Volume</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">About</string>
+    <string name="select_use_time">Please select every usage time</string>
+    <string name="select_break_time">Please select every rest time</string>
+    <string name="radio_5m">5minutes</string>
+    <string name="radio_10m">10minutes</string>
+    <string name="radio_15m">15minutes</string>
+    <string name="radio_20m">20minutes</string>
+    <string name="radio_30m">30minutes</string>
+    <string name="radio_40m">40minutes</string>
+    <string name="radio_1h">1hour</string>
+    <string name="radio_2h">2hours</string>
+    <string name="setting_time">Used for %1$d minutes/Rest for %2$d minutes</string>
+
+    <string name="welcome">Welcome to Kids Zone\nPlease complete the following setup guide</string>
+    <string name="user_icon">Select photo</string>
+    <string name="birth">Birthday</string>
+    <string name="user_name">Name</string>
+    <string name="user_name_hint">"Please input the child's name"</string>
+    <string name="user_birth_hint">"Please select child's birthday"</string>
+    <string name="app_filter">Parent Mode- App management</string>
+    <!--<string name="guide_choose_format">Please select apps allowed children to use(<font color="#ff6b00">%1$d/%2$d</font>)</string>-->
+    <string name="guide_choose_format"><![CDATA[Please select apps allowed children to use（<font color="#ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="input_password">Please input a 4-bit password</string>
+    <string name="again_input_password">Please confirm the password</string>
+    <string name="password_success">Password set successfully</string>
+    <string name="password_error">The two passwords you enter is inconsistent, please enter again.</string>
+    <string name="input_answer">Please enter correct answer</string>
+    <string name="answer_error">Wrong answer, please enter again</string>
+    <string name="forget_password">Password forgot?</string>
+    <!--<string name="new_password">Your password is %1$s</string>-->
+    <string name="new_password"><![CDATA[Your password is<font color="#00ff1212">%1$s</font>]]></string>
+    <string name="password_error_input">Password error, please re-enter</string>
+    <string name="use_of_day_title">Daily usage time last week</string>
+    <string name="top_five_title">Frequently used apps last week</string>
+
+    <string name="app_info">"2009-2016 Transsion Holdings.\n All rights reserved"</string>
+    <string name="enter_parent_mode">Enter Parent Mode</string>
+    <string name="add_use_time">Add usage time</string>
+
+    <string-array name="add_use_time">
+        <item>@string/radio_5m</item>
+        <item>@string/radio_15m</item>
+        <item>@string/radio_30m</item>
+        <item>@string/radio_1h</item>
+    </string-array>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="overplus_time">Remaining rest time&#160;&#160;%1$s</string>
+
+    <string name="column_time">Time (h)</string>
+    <string name="column_app">APP</string>
+    <string name="column_date">Date</string>
+    <string name="user_name_not_null">Username cannot be null</string>
+    <string name="time_up">Time is running out</string>
+    <string name="other_lock_screen_hint">"Hey little buddy, please don't play while lying down!"</string>
+    <string name="select_img">Select image</string>
+
+    <string name="exit_dialog_hint">Please confirm whether to exit Kids Zone</string>
+
+    <string name="no_sim">No SIM</string>
+    <string name="airplane_mode">Airplane mode is ON</string>
+    <string name="permissions_help">Help</string>
+    <string name="permissions_msg">Current app lacks essential permissions, please go to &#160;Settings&#160;-&#160;Apps&#160;-&#160;Permissions&#160;to grant permission to the app; cancel to exit app</string>
+    <string name="permissions_setting">Settings</string>
+    <string name="charge_hint">Dear kid, device is charging now, please have a rest</string>
+    <string name="multimedia_volume">Multimedia volume</string>
+    <string name="mobile_data_close">Close data connection</string>
+    <string name="charge_full_hint">Charge complete！</string>
+
+    <string name="exit_dialog_title">Quit</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">Charging &#160;%1$s%%</string>
+    <string name="charge_protection">充电保护</string>
+    <string name="exit_charing">"Exit charging protection "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

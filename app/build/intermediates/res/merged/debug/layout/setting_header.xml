@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/setting_person_model"
+        layout="@layout/setting_item_model" />
+
+    <ImageView
+        android:id="@+id/setting_user_img"
+        android:layout_width="@dimen/setting_header_img_length"
+        android:layout_height="@dimen/setting_header_img_length"
+        android:layout_below="@id/setting_person_model"
+        android:layout_marginBottom="@dimen/dp_10"
+        android:layout_marginEnd="@dimen/setting_header_img_marginEnd"
+        android:layout_marginStart="@dimen/setting_header_img_marginStart"
+        android:layout_marginTop="@dimen/dp_10"
+        android:src="@drawable/user_photo_default" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/setting_person_model"
+        android:layout_marginStart="@dimen/parent_header_img_margin_end"
+        android:layout_toRightOf="@id/setting_user_img">
+
+        <TextView
+            android:id="@+id/user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/personal_center_name_margin_top"
+            android:background="@drawable/shape_black_under_line"
+            android:maxWidth="@dimen/personal_center_usage_time_max_width"
+            android:minWidth="@dimen/dp_100"
+            android:singleLine="true"
+            android:textColor="@color/black_333"
+            android:textSize="@dimen/txt_size_36" />
+
+        <com.dollyphin.kidszone.view.UserNameEditTextView
+            android:id="@+id/edit_user_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/personal_center_name_margin_top"
+            android:background="@drawable/shape_black_under_line"
+            android:maxWidth="@dimen/personal_center_usage_time_max_width"
+            android:minWidth="@dimen/dp_100"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:textColor="@color/black_333"
+            android:textSize="@dimen/txt_size_36" />
+
+
+        <Button
+            android:id="@+id/use_of_day"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/user_name"
+            android:layout_marginTop="@dimen/personal_center_usage_time_margin_top"
+            android:background="@drawable/ripple_usage_time_bg"
+            android:maxWidth="@dimen/personal_center_usage_time_max_width"
+            android:singleLine="true"
+            android:text="@string/use_of_day"
+            android:textColor="@color/white"
+            android:textSize="@dimen/column_buttom_text_size" />
+
+        <Button
+            android:id="@+id/top_five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/use_of_day"
+            android:layout_below="@+id/birthday"
+            android:layout_marginStart="@dimen/dp_50"
+            android:layout_toRightOf="@id/use_of_day"
+            android:background="@drawable/ripple_used_app_bg"
+            android:gravity="center"
+            android:maxWidth="@dimen/personal_center_usage_time_max_width"
+            android:singleLine="true"
+            android:text="@string/top_five"
+            android:textColor="@color/white"
+            android:textSize="@dimen/column_buttom_text_size" />
+
+        <TextView
+            android:id="@id/birthday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/top_five"
+            android:layout_marginTop="@dimen/personal_center_name_margin_top"
+            android:background="@drawable/shape_black_under_line"
+            android:text="10-17-1997"
+            android:textColor="@color/black_333"
+            android:textSize="@dimen/txt_size_36" />
+    </RelativeLayout>
+</RelativeLayout>

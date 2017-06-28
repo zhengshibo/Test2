@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Kids Zone خارج شوید</string>
+    <string name="sign_out">Kids Zone خارج شوید</string>
+    <string name="enter_parent">حالت والدین</string>
+
+    <string name="person_model">مرکز شخصی</string>
+    <string name="parent_manage">کنترل والدین</string>
+    <string name="use_of_day">زمان مصرف روزانه</string>
+    <string name="top_five">برنامه دارای بیشترین میزان استفاده</string>
+    <string name="take_photo">عکس گرفتن</string>
+    <string name="gallery">"گالری"</string>
+
+    <string name="change_pwd">تغییر گذرواژه</string>
+    <string name="time_agreement">موافقت‌نامه زمانی</string>
+    <string name="flowmeter">محدودیت داده</string>
+    <string name="app_manage">مدیریت برنامه ها</string>
+    <string name="app_market">بازار برنامه</string>
+    <string name="system_setting">تنظیمات سیستم</string>
+    <string name="eye_model">حالت مراقبت از چشم</string>
+    <string name="brightness">روشنایی</string>
+    <string name="volume">میزان صدا</string>
+    <string name="wallpaper">کاغذدیواری‌ها</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">درباره</string>
+    <string name="select_use_time">لطفاً هر زمان مصرف را انتخاب کنید</string>
+    <string name="select_break_time">لطفاً هر زمان استراحت را انتخاب کنید</string>
+    <string name="radio_5m">5دقیقه</string>
+    <string name="radio_10m">10دقیقه</string>
+    <string name="radio_15m">15دقیقه</string>
+    <string name="radio_20m">20دقیقه</string>
+    <string name="radio_30m">30دقیقه</string>
+    <string name="radio_40m">40دقیقه</string>
+    <string name="radio_1h">1ساعت</string>
+    <string name="radio_2h">2ساعت</string>
+    <string name="setting_time">استفاده‌شده به مدت %2$d/استراحت به مدت %1$d</string>
+
+    <string name="welcome">به  Kids Zone خوش آمدید\n لطفاً راهنمای راه‌اندازی زیر را تکمیل کنید</string>
+    <string name="user_icon">لطفاً یک عکس انتخاب کنید</string>
+    <string name="birth">تاریخ تولد</string>
+    <string name="user_name">نام</string>
+    <string name="user_name_hint">لطفاً نام کودک را وارد کنید</string>
+    <string name="user_birth_hint">لطفاً تاریخ تولد کودک را انتخاب کنید</string>
+    <string name="app_filter">حالت والدین - مدیریت برنامه ها</string>
+
+    <string name="input_password">لطفاً یک رمز ورود 4 رقمی وارد کنید</string>
+    <string name="again_input_password">لطفاً رمز ورود را تأیید کنید</string>
+    <string name="password_success">رمز ورود با موفقیت تنظیم شد</string>
+    <string name="password_error">دو رمز ورودی که وارد می‌کنید متفاوت هستند، لطفاً دوباره وارد کنید.</string>
+    <string name="input_answer">لطفا جواب صحیح را وارد کنید</string>
+    <string name="answer_error">پاسخ اشتباه است، لطفاً دوباره امتحان کنید</string>
+    <string name="forget_password">رمز ورود را فراموش کرده‌اید؟</string>
+    <!--<string name="new_password">رمز ورود شما %1$s است</string>-->
+    <string name="new_password"><![CDATA[رمز ورود شما font color="#00ff1212">%1$s</font> است>]]></string>
+    <string name="password_error_input">خطای رمز ورود، لطفاً دوباره وارد کنید</string>
+    <string name="use_of_day_title">زمان مصرف روزانه هفته قبل</string>
+    <string name="top_five_title">برنامه‌های اغلب استفاده‌شده در هفته گذشته</string>
+
+    <string name="enter_parent_mode">ورود به حالت والدین</string>
+    <string name="add_use_time">افزودن زمان مصرف</string>
+
+    <string name="ok">تاييد</string>
+    <string name="cancel">کنسل</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n همه حقوق محفوظ است"</string>
+    <string name="multimedia_volume">حجم چند رسانه ای</string>
+    <!--<string name="guide_choose_format">لطفا برنامه هایی را که بچه ها حق استفاده از آن را دارند انتخاب کنید(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[لطفا برنامه هایی را که بچه ها حق استفاده از آن را دارند انتخاب کنید（<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">هی رفیق، لطفاً دراز کشیده بازی نکن!</string>
+    <string name="time_up">زمان رو به اتمام است</string>
+    <string name="user_name_not_null">نام کاربری نمی تواند خالی باشد</string>
+    <string name="overplus_time">زمان باقیمانده &#160;&#160;%1$s</string>
+    <string name="exit_dialog_hint">لطفا تایید کنید که آیا می خواهید از Kids Zone خارج شوید؟</string>
+    <string name="select_img">تصویر را انتخاب کنید</string>
+    <string name="mobile_data_close">اتصال داده را ببند</string>
+    <string name="column_time">زمان (h)</string>
+    <string name="column_date">تاریخ</string>
+    <string name="column_app">برنامه‌ها</string>
+    <string name="charge_hint">بچه عزیز، دستگاه در حال حاضر شارژ، لطفا استراحت کنید</string>
+    <string name="permissions_msg">برنامه فعلی فاقد مجوز ضروری است، لطفا به تنظیمات- نرم افزار - مجوز  برنامه بروید . خروج از برنامه را کنسل کنید</string>
+    <string name="permissions_help">راهنما</string>
+    <string name="permissions_setting">تنظیمات</string>
+    <string name="no_sim">بدون سیم کارت.</string>
+    <string name="airplane_mode">"حالت هواپیما روشن است "</string>
+    <string name="charge_full_hint">شارژ کامل شد</string>
+
+    <string name="exit_dialog_title">خروج</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">در حال شارژ &#160;%1$s%%</string>
+    <string name="exit_charing">"از حفاظت از شارژ خارج شوید "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

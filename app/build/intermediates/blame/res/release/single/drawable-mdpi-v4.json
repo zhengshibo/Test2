@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\emergency_dialer.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\emergency_dialer.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\keyboard.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\keyboard.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\welcome_importance.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\welcome_importance.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_pageindicator_current.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\ic_pageindicator_current.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\system_ui_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\system_ui_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\password.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\password.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\parent_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\parent_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\add_use_time.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\add_use_time.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\usage_time_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\usage_time_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon10.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon10.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\lock_screen_thumb.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\lock_screen_thumb.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\limit_time_uncheck.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\limit_time_uncheck.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ok.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\ok.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_back_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_back_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\input.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\input.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\divider.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\divider.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_3.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_3.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\lock_screen_progress.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\lock_screen_progress.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\time_out_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\time_out_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\wifi_icon.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\wifi_icon.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\add_time_uncheck.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\add_time_uncheck.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_mask.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon_mask.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\enter_parent_model.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\enter_parent_model.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_choose_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_choose_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\time_out_pwd_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\time_out_pwd_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\status_bar.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\status_bar.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\wallpaper_checked.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\wallpaper_checked.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon4.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon4.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon1.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon1.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\lock_screen_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\lock_screen_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\add_time_checkded.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\add_time_checkded.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\used_app_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\used_app_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon7.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon7.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_pageindicator_default.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\ic_pageindicator_default.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_background.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_background.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_about.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\right_arrow.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\right_arrow.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_next_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_next_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\limit_time_checked.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\limit_time_checked.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_choose_app_select.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_choose_app_select.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_0.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_0.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon8.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon8.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\pop_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\pop_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\wallpaper.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\wallpaper.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\system_ui_enter.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\system_ui_enter.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_ok_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_ok_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_ok_disable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_ok_disable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_back_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_back_enable.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon6.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon6.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\kids_system_ui_bg.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\kids_system_ui_bg.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_5.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_5.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_back.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_2.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_2.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\user_photo_default.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\user_photo_default.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\other_lock_screnn.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\other_lock_screnn.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\num_c.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\num_c.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\icon_background.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\icon_background.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\app_select.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\app_select.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\txt_bg.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\txt_bg.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\Kids_Zone\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\under_line_photo.9.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\under_line_photo.9.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\dollyphin_cry.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\dollyphin_cry.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_exit.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\ic_exit.png"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\guide_next_enable.png",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\drawable-mdpi\\guide_next_enable.png"
+    }
+]

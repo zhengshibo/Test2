@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/kids_zone_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!--android:foreground="@color/black_per_20"-->
+
+    <com.dollyphin.kidszone.home.Workspace
+        android:id="@+id/workspace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <include
+        android:id="@+id/page_indicator"
+        layout="@layout/page_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" />
+
+    <ViewStub
+        android:id="@+id/viewstub_status_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout="@layout/status_bar" />
+
+    <ViewStub
+        android:id="@+id/viewstub_wallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/wallpaper_home" />
+</FrameLayout>

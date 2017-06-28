@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<resources>
+    <integer name="config_KidsZoneCellYCount">4</integer>
+    <bool name="answer_bold">false</bool>
+    <bool name="welcome_text_type">true</bool>
+
+    <string name="global_system">Global</string>
+    <string name="project">P904</string>
+</resources>

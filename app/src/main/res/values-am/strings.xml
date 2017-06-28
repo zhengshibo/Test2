@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Kids Zone</string>
+    <string name="exit_kidszone">Kids Zone\n ይውጡ</string>
+    <string name="sign_out">Kids Zone ይውጡ</string>
+    <string name="enter_parent">የወላጅ ሁነታ</string>
+
+    <string name="person_model">የግል ማእከል</string>
+    <string name="parent_manage">የወላጅ ቁጥጥር</string>
+    <string name="use_of_day">ዕለታዊ መጠቀሚያ ጊዜ</string>
+    <string name="top_five">በጣም በተደጋጋሚ ጥቅም ላይ መተግበሪያ</string>
+    <string name="take_photo">"ፎቶ አንሳ"</string>
+    <string name="gallery">የምስል ማሳያ</string>
+
+    <string name="change_pwd">ይለፍ ቃል ለውጥ</string>
+    <string name="time_agreement">የሰአት ስምምነት</string>
+    <string name="flowmeter">የውሂብ ወሰን</string>
+    <string name="app_manage">የመተግበሪያ አስተዳደር</string>
+    <string name="app_market">የመተግበሪያ ገበያ</string>
+    <string name="system_setting">የስርአት ማስተካከያዎች</string>
+    <string name="eye_model">የአይን ጥንቃቄ ሁነታ</string>
+    <string name="brightness">ብርሃማነት</string>
+    <string name="volume">ድምጽ መጠን</string>
+    <string name="wallpaper">ልጣፍ</string>
+    <string name="wifi">WIFI</string>
+    <string name="about">ስለ</string>
+    <string name="select_use_time">እባክዎ የእያንዳንዱ የመጠቀሚያ ሰአት ይምረጡ</string>
+    <string name="select_break_time">እባክዎ የእያንዳንዱ የማረፊያ ሰአት ይምረጡ</string>
+    <string name="radio_5m">5ደቂቃዎች</string>
+    <string name="radio_10m">10ደቂቃዎች</string>
+    <string name="radio_15m">15ደቂቃዎች</string>
+    <string name="radio_20m">20ደቂቃዎች</string>
+    <string name="radio_30m">30ደቂቃዎች</string>
+    <string name="radio_40m">40ደቂቃዎች</string>
+    <string name="radio_1h">1ሰዓት</string>
+    <string name="radio_2h">2ሰዓታት</string>
+    <string name="setting_time">ለ %1$d ደቂቃዎች ተጠቅሟል/ ለ %2$d ደቂቃዎች አርፏል</string>
+
+    <string name="welcome">እንኳን ወደ Kids Zone በደህና መጡ\n እባክዎ የሚከተለውን የማዋቀሪያ መመሪያ ያጠናቅቁ</string>
+    <string name="user_icon">እባክዎ ፎቶ ይምረጡ</string>
+    <string name="birth">ልደት</string>
+    <string name="user_name">ስም</string>
+    <string name="user_name_hint">እባክዎ የህፃኑን ስም ያስገቡ</string>
+    <string name="user_birth_hint">እባክዎ የህፃኑን ልደት ቀን ይምረጡ</string>
+    <string name="app_filter">የወላጅ ሁነታ- የመተግበሪያ አስተዳደር</string>
+
+    <string name="input_password">እባክዎ 4 ይለፍ ቃል ያስገቡ</string>
+    <string name="again_input_password">እባክዎ ይለፍ ቃሉን ያረጋግጡ</string>
+    <string name="password_success">ይለፍ ቃል ማዘጋጀት ተሳክቷል</string>
+    <string name="password_error">ያስገቡት ሁለቱ ይለፍ ቃላት ተመሳሳይ አይደሉም፣ እባክዎ በድጋሚ ያስገቡ</string>
+    <string name="input_answer">እባክዎ ትክክለኛውን መልስ ያስገቡ</string>
+    <string name="answer_error">የተሳሳተ መልስ፣ እባክዎ በድጋሚ ያስገቡ</string>
+    <string name="forget_password">ይለፍ ቃል ረሱ?</string>
+    <!--<string name="new_password">የእርሶ ይለፍ ቃል %1$s ነው</string>-->
+    <string name="new_password"><![CDATA[የእርሶ ይለፍ ቃል<font color="#00ff1212">%1$s</font>ነው]]></string>
+    <string name="password_error_input">የይለፍ ቃል ስህተት፣ እባክዎ በድጋሚ ያስገቡ</string>
+    <string name="use_of_day_title">የባለፈው ሳምንት ዕለታዊ መጠቀሚያ ሰአት</string>
+    <string name="top_five_title">ባለፈው ሳምንት በተደጋጋሚ ጥቅም ላይ የዋሉ መተግበሪያዎች</string>
+
+    <string name="enter_parent_mode">የወላጅ ሁነታ ይግቡ</string>
+    <string name="add_use_time">የመጠቀሚያ ሰአት ይጨምሩ</string>
+
+    <string name="ok">እሺ</string>
+    <string name="cancel">ሰርዝ</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n ሁሉም መብቶች የተጠበቁ ናቸው"</string>
+    <string name="multimedia_volume">የማህደረ ብዙ መረጃ ድምጽ መጠን</string>
+    <!--<string name="guide_choose_format">እባክዎ ህጻናት እንዲጠቀሙ የሚፈቀዱ መተግበሪያዎችን ይምረጡ(%1$d/%2$d)</string>-->
+    <string name="guide_choose_format"><![CDATA[እባክዎ ህጻናት እንዲጠቀሙ የሚፈቀዱ መተግበሪያዎችን ይምረጡ（<font color="#00ff6b00">%1$d/%2$d</font>）]]></string>
+
+    <string name="other_lock_screen_hint">ሃይ ትንሹ ጓደኛዬ፣ እባክህ በጀርባህ ተኝተህ አትጫወት!</string>
+    <string name="time_up">ጊዜ እያለቀ ነው</string>
+    <string name="user_name_not_null">የተጠቃሚ ስም ባዶ መሆን አይችልም</string>
+    <string name="overplus_time">ቀሪ የእረፍት ጊዜ &#160;&#160;%1$s</string>
+    <string name="exit_dialog_hint">እባክዎ ከ Kids Zone ለመውጣት ያረጋግጡ</string>
+    <string name="select_img">ምስል ምረጥ</string>
+    <string name="mobile_data_close">የውሂብ ግንኙነት ዝጋ</string>
+    <string name="column_time">ሰአት(h)</string>
+    <string name="column_date">ቀን</string>
+    <string name="column_app">መተግበሪያ</string>
+    <string name="charge_hint">ውድ ልጆች፣ መሳሪያው አሁን ቻርጅ እያደረገ ነው፣ እባካቹ ትንሽ እረፍት አድርጉ</string>
+    <string name="permissions_msg">"የአሁን መተግበሪያ  አስፈላጊ ፍቃድ ይጎለዋል፣ እባክዎ ለመተግበሪያው ፍቃድ ለመስጠት፤ ወደ &#160;ማስተካከያዎች&#160;-&#160;መተግበሪያዎች&#160;-&#160;ፍቃዶች &#160; ይሂዱ፤ ከመተግበሪያው ለመውጣት ይሰርዙ"</string>
+    <string name="permissions_help">እርዳታ</string>
+    <string name="permissions_setting">ማስተካከያዎች</string>
+    <string name="no_sim">ሲም የለም</string>
+    <string name="airplane_mode">"የበረራ ሁነታ በርቷል "</string>
+    <string name="charge_full_hint">ቻርጅ ማድረግ ተጠናቋል</string>
+
+    <string name="exit_dialog_title">አቁም</string>
+    <!--add by wanghong for kids zone 2.0 begin-->
+    <string name="charging">ቻርጅ በማድረግ ላይ &#160;%1$s%%</string>
+    <string name="exit_charing">"ቻርጅ ከማድረጊያ ጥበቃ  ይውጡ "</string>
+    <!--add by wanghong for kids zone 2.0 end-->
+</resources>

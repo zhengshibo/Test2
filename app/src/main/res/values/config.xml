@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<resources>
+    <bool name="supports_rtl">false</bool>
+    <bool name="exclude_from_recents">true</bool>
+    <bool name="supports_premission">false</bool>
+
+    <bool name="answer_bold">false</bool>
+    <bool name="welcome_text_type">false</bool>
+
+    <integer name="config_KidsZoneCellXCount">6</integer>
+    <integer name="config_KidsZoneCellYCount">3</integer>
+
+    <string name="global_system">System</string>
+    <string name="project">P701|P702</string>
+
+</resources>

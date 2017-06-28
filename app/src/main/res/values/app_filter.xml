@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<resources>
+    <string-array name="black_filter" translatable="false">
+        <item>"com.android.settings/com.android.settings.Settings"</item>
+        <item>"com.android.vending/com.android.vending.AssetBrowserActivity"</item>
+        <item>"com.dollyphin.kidszone/com.dollyphin.kidszone.home.KidsZoneHome"</item>
+        <item>"com.dollyphin.kidszone/com.dollyphin.kidszone.startpage.StartPage"</item>
+        <item>"com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"</item>
+        <item>"com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity"</item>
+    </string-array>
+</resources>

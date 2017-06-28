@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-w800dp-v13\\dialog_exit.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout-sw800dp-w800dp\\dialog_exit.xml"
+    },
+    {
+        "merged": "E:\\Kids_Zone\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw800dp-w800dp-v13\\view_other_lock_screen.xml",
+        "source": "E:\\Kids_Zone\\app\\src\\main\\res\\layout-sw800dp-w800dp\\view_other_lock_screen.xml"
+    }
+]

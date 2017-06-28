@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20130729\adt-bundle-windows-x86_64-20130729\sdk\build-tools\24.0.1\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="05668b8cd6c7b07f152b6a5b4c6cff620817ba0f">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\renderscript-v8_b3cb8bef1e442e52833a913bb6e9d71354cf5320.jar" />
+    </item>
+    <item
+        jar="E:\Kids_Zone\app\libs\themeparcel.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="241c8538e69b827bc1b1f1670ba2adfb807fdc3f">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\themeparcel_d7ff5e4d1f9d9e49954c7b5c0aba9e28905a69be.jar" />
+    </item>
+    <item
+        jar="E:\Kids_Zone\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1_88e7a78df7d26a02dfa3aa4fdbdcd04c8cf94894.jar" />
+    </item>
+    <item
+        jar="E:\Kids_Zone\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.0.1_2cd69ca560c71f424e8758a43fe956185691a98d.jar" />
+    </item>
+    <item
+        jar="E:\Kids_Zone\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.0.1_1aa522b8a192f86f8778c308d0737c77e53b3ef0.jar" />
+    </item>
+    <item
+        jar="E:\Kids_Zone\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.0.1_e74f15ae5feae31bcb9b3b1689444adc6ae59f59.jar" />
+    </item>
+    <item
+        jar="E:\Kids_Zone\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="baadab97e6e787f81c369eb27c4ca52a8b38290c">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\pinyin4j-2.5.0_f9a797e8f8d3b143ff876033f0396c0e99559ab1.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64-20130729\adt-bundle-windows-x86_64-20130729\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Kids_Zone\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1_d59e8341ed1e1fb6f767cd1a9c0984d9fa33da6c.jar" />
+    </item>
+
+</items>

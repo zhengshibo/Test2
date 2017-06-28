@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<com.dollyphin.kidszone.guide.Information xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/user_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="@dimen/information_user_icon_bottom"
+        android:layout_marginStart="@dimen/user_icon_margin_start"
+        android:background="@drawable/user_photo_default" />
+
+    <TextView
+        android:id="@+id/select_icon"
+        style="@style/GuideTextStyle.Information"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/information_select_icon_bottom"
+        android:layout_marginStart="@dimen/user_margin_end"
+        android:layout_toEndOf="@id/user_icon"
+        android:background="@drawable/under_line_photo"
+        android:text="@string/user_icon" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="@dimen/information_margin_end"
+        android:layout_marginTop="@dimen/information_name_birth_margin_top">
+
+        <TextView
+            android:id="@+id/user_name"
+            style="@style/GuideTextStyle.Information"
+            android:text="@string/user_name" />
+
+        <ImageView
+            style="@style/WelcomeStyle.importance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/user_name"
+            android:layout_marginStart="@dimen/information_importance_start"
+            android:layout_toEndOf="@id/user_name" />
+
+        <com.dollyphin.kidszone.view.UserNameEditTextView
+            android:id="@+id/edit_name"
+            style="@style/InformationEditTextStyle"
+            android:layout_below="@id/user_name"
+            android:layout_marginTop="@dimen/information_margin_top"
+            android:visibility="invisible" />
+
+        <TextView
+            android:id="@+id/user_name_show"
+            style="@style/InformationEditTextStyle"
+            android:layout_below="@id/user_name"
+            android:layout_marginTop="@dimen/information_margin_top"
+            android:hint="@string/user_name_hint" />
+
+        <TextView
+            android:id="@+id/user_birth"
+            style="@style/GuideTextStyle.Information"
+            android:layout_below="@id/edit_name"
+            android:layout_marginTop="@dimen/user_birth_top"
+            android:text="@string/birth" />
+
+        <ImageView
+            style="@style/WelcomeStyle.importance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/user_birth"
+            android:layout_marginStart="@dimen/information_importance_start"
+            android:layout_toEndOf="@id/user_birth" />
+
+        <TextView
+            android:id="@+id/edit_birth"
+            style="@style/InformationEditTextStyle"
+            android:layout_below="@id/user_birth"
+            android:layout_marginTop="@dimen/information_margin_top"
+            android:hint="@string/user_birth_hint" />
+
+
+    </RelativeLayout>
+</com.dollyphin.kidszone.guide.Information>

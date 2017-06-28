@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Top Secret -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/guide_back_disable" android:state_enabled="false" android:state_focused="false" />
+    <item android:drawable="@drawable/guide_back_disable" android:state_enabled="false" android:state_focused="true" />
+    <item android:drawable="@drawable/guide_back_enable" android:state_enabled="true" android:state_focused="true" />
+    <item android:drawable="@drawable/guide_back_enable" android:state_enabled="true" android:state_focused="false" />
+    <item android:drawable="@drawable/guide_back_disable" />
+</selector>

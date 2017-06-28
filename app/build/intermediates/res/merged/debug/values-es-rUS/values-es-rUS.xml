@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar a la página principal"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Elige una aplicación."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Eliminar la consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de búsqueda"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Búsqueda"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about">"Acerca de"</string>
+    <string name="add_use_time">Aumentar el tiempo de uso</string>
+    <string name="again_input_password">Introduzca de nuevo la contraseña</string>
+    <string name="airplane_mode">"\"El modo avión está Activado\" "</string>
+    <string name="answer_error">Error de respuesta, vuelva a ingresar</string>
+    <string name="app_filter">Modo Padres-Adminstración de aplicaciones</string>
+    <string name="app_info">"2009-2016 Transsion Holdings.\n Todos los derechos reservados"</string>
+    <string name="app_manage">Administración de aplicación</string>
+    <string name="app_market">Tienda de aplicaciones</string>
+    <string name="app_name">Kids Zone</string>
+    <string name="birth">"Cumpleaños"</string>
+    <string name="brightness">"Brillo"</string>
+    <string name="cancel">"CANCELAR"</string>
+    <string name="change_pwd">"Cambiar contraseña"</string>
+    <string name="charge_full_hint">Carga completa</string>
+    <string name="charge_hint">Estimado niño, el dispositivo está cargando ahora, por favor, tenga un descanso</string>
+    <string name="charging">Cargando  %1$s%%</string>
+    <string name="column_app">Aplicación</string>
+    <string name="column_date">Fecha</string>
+    <string name="column_time">Hora(h)</string>
+    <string name="enter_parent">Modo padre</string>
+    <string name="enter_parent_mode">Entrar en modo padre</string>
+    <string name="exit_charing">"Salir de protección de carga "</string>
+    <string name="exit_dialog_hint">Por favor, confirme si desea salir de Kids Zone</string>
+    <string name="exit_dialog_title">Salir</string>
+    <string name="exit_kidszone">Salir de Kids Zone</string>
+    <string name="eye_model">Modo de cuidado de los ojos</string>
+    <string name="flowmeter">"Límite de datos"</string>
+    <string name="forget_password">¿Olvidó su contraseña?</string>
+    <string name="gallery">"Galería"</string>
+    <string name="guide_choose_format">Selecciona aplicaciones para que tu hijo pueda acceder（&lt;font color="#00ff6b00">%1$d/%2$d&lt;/font>）</string>
+    <string name="input_answer">Introduzca la respuesta correcta</string>
+    <string name="input_password">Introduzca una contraseña de 4 dígitos</string>
+    <string name="mobile_data_close">Desactivar la conexión de datos</string>
+    <string name="multimedia_volume">Volumen multimedia</string>
+    <string name="new_password">Su contraseña es&lt;font color="#00ff1212">%1$s&lt;/font></string>
+    <string name="no_sim">No se encuentra la tarjeta SIM</string>
+    <string name="ok">"CONFIGURAR"</string>
+    <string name="other_lock_screen_hint">¡Hey pequeño amigo, por favor no juegue mientras está acostado!</string>
+    <string name="overplus_time">Tiempo de descanso restante   %1$s</string>
+    <string name="parent_manage">Control de padres</string>
+    <string name="password_error">Las entradas no coinciden. Vuelve a intentarlo.</string>
+    <string name="password_error_input">Error de contraseña, vuelva a ingresar</string>
+    <string name="password_success">La contraseña se ha configurado correctamente</string>
+    <string name="permissions_help">"Ayuda"</string>
+    <string name="permissions_msg">La aplicación actual carece de permisos esenciales, por favor vaya a  Configuración -Aplicaciones  - Permisos  para conceder el permiso a la aplicación. Cancelar para salir de la aplicación</string>
+    <string name="permissions_setting">"Ajustes"</string>
+    <string name="person_model">Centro personal</string>
+    <string name="radio_10m">"10 minutos"</string>
+    <string name="radio_15m">"15 minutos"</string>
+    <string name="radio_1h">"1 hora"</string>
+    <string name="radio_20m">"20 minutos"</string>
+    <string name="radio_2h">"2 horas"</string>
+    <string name="radio_30m">"30 minutos"</string>
+    <string name="radio_40m">"40 minutos"</string>
+    <string name="radio_5m">"5 minutos"</string>
+    <string name="select_break_time">Seleccione el tiempo de descanso de la sesión</string>
+    <string name="select_img">Seleccionar imagen</string>
+    <string name="select_use_time">Seleccione el tiempo de uso de la sesión</string>
+    <string name="setting_time">Uso %1$d minuto(s) /descanso %2$d minuto(s)</string>
+    <string name="sign_out">Salir de Kids Zone</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="system_setting">"Configuración del sistema"</string>
+    <string name="take_photo">Capturar</string>
+    <string name="time_agreement">Acuerdo de tiempo</string>
+    <string name="time_up">El tiempo se agota</string>
+    <string name="top_five">Aplicación de uso frecuente</string>
+    <string name="top_five_title">Aplicaciones favoritas de la semana pasada</string>
+    <string name="use_of_day">Tiempo empleado</string>
+    <string name="use_of_day_title">Tiempo de uso diario de la semana pasada</string>
+    <string name="user_birth_hint">Por favor seleccione el cumpleaños del niño</string>
+    <string name="user_icon">Seleccionar imágenes</string>
+    <string name="user_name">"Nombre"</string>
+    <string name="user_name_hint">Introduzca el nombre del niño</string>
+    <string name="user_name_not_null">El nombre de usuario no puede ser nulo</string>
+    <string name="volume">"Volumen"</string>
+    <string name="wallpaper">"Fondo de pantalla"</string>
+    <string name="welcome">Bienvenido a Kids Zone \n Configure los siguientes ajustes</string>
+    <string name="wifi">WIFI</string>
+</resources>
